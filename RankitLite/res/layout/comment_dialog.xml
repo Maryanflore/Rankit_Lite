@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+android:orientation="vertical"
+android:layout_width="wrap_content"
+android:layout_height="wrap_content"
+android:padding="10dp" 
+ android:background="#FFFFFF" 
+ >
+  
+    	 
+        <EditText
+            android:id="@+id/Editcomment"
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:layout_margin="5sp"
+            android:layout_weight="1"
+            android:background="@drawable/message_field"
+            android:hint="Laissez votre commentaire ici"
+            android:padding="5sp"
+            android:textSize="12sp"
+            android:textColor="@color/textFieldColor" />
+      
+    	 
+     <TextView 
+         android:id="@+id/result"
+         android:textSize="12dp"  
+        android:layout_marginTop="20dp"  
+         android:layout_width="wrap_content" 
+         android:layout_height="wrap_content"  
+         android:textColor="#FF0000"    />   
+             
+      <Button
+        android:layout_weight="5" 
+        android:id="@+id/send_button_comment"
+        android:layout_width="100dp"
+        android:layout_height="30dp" 
+        android:layout_marginTop="20dp"    
+        android:textSize="14sp"  
+        android:textStyle="bold"
+        android:text="Envoyer"   
+        android:textColor="@color/text_button" 
+        android:background="@drawable/tab_bg_button" 
+	   	android:layout_gravity="center" /> 
+	   	
+</LinearLayout>

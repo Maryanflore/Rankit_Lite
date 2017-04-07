@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+    
+
+     <item
+         android:id="@+id/action_icon_info"
+         android:icon="@drawable/icon_info"
+         android:title="Chercher Une Entreprise"
+
+         app:showAsAction="always" />
+   <!--  <item android:id="@+id/search"
+        android:icon="@drawable/ic_action_search_blanc"
+        android:showAsAction="ifRoom"
+        android:title="@string/Search">
+          <item 
+                android:title="@string/Services_par_secteur"
+	      		android:id="@+id/search_list_item1"></item>
+            <item 
+                android:title="@string/Services_par_autre"
+	      		android:id="@+id/search_list_item2"></item>
+        </item> -->
+    
+   <!--  <item android:id="@+id/coranker"
+        android:icon="@drawable/ic_maps_directions_walk_blanc"
+        android:showAsAction="always"
+        android:title="@string/Friends"/> -->
+    
+   <!--  <item android:id="@+id/credits"
+        android:icon="@drawable/ic_action_redeem_blanc"
+        android:showAsAction="always"
+        android:title="@string/New"/>
+     -->
+   <!--  <item android:id="@+id/menu_status"
+        android:icon="@drawable/ic_navigation_more_vert"
+        android:showAsAction="ifRoom"
+        android:title="@string/Menu">
+        <menu>
+            <item 
+                android:title="@string/ServicesFavorite"
+	      		android:id="@+id/list_item1"></item>
+            <item 
+                android:title="@string/ServicesNew"
+	      		android:id="@+id/list_item2"></item>
+            <item 
+                android:title="@string/ServicesSugestion"
+	      		android:id="@+id/list_item3"></item>
+            <item 
+                android:title="@string/ServicesAll"
+	      		android:id="@+id/list_item4"></item>
+           
+        </menu>
+        </item> -->
+     
+</menu>

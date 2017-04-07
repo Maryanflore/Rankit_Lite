@@ -1,0 +1,3754 @@
+[
+    {
+        "outputFile": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\values-fr\\values-fr.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 202,
+                    "endColumn": 15,
+                    "endOffset": 4612
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 98,
+                        "startColumn": 1,
+                        "startOffset": 4863,
+                        "endLine": 298,
+                        "endColumn": 15,
+                        "endOffset": 9420
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 203,
+                    "startColumn": 4,
+                    "startOffset": 4617,
+                    "endColumn": 42,
+                    "endOffset": 4655
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\color.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 837,
+                        "endColumn": 42,
+                        "endOffset": 875
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 204,
+                    "startColumn": 4,
+                    "startOffset": 4660,
+                    "endColumn": 43,
+                    "endOffset": 4699
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\color.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 156,
+                        "endColumn": 43,
+                        "endOffset": 195
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 205,
+                    "startColumn": 4,
+                    "startOffset": 4704,
+                    "endColumn": 49,
+                    "endOffset": 4749
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\color.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 254,
+                        "endColumn": 49,
+                        "endOffset": 299
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 206,
+                    "startColumn": 4,
+                    "startOffset": 4754,
+                    "endColumn": 50,
+                    "endOffset": 4800
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\color.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 305,
+                        "endColumn": 50,
+                        "endOffset": 351
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 207,
+                    "startColumn": 4,
+                    "startOffset": 4805,
+                    "endColumn": 51,
+                    "endOffset": 4852
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\color.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 201,
+                        "endColumn": 51,
+                        "endOffset": 248
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 208,
+                    "startColumn": 4,
+                    "startOffset": 4857,
+                    "endColumn": 46,
+                    "endOffset": 4899
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\color.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 1,
+                        "startOffset": 2247,
+                        "endColumn": 43,
+                        "endOffset": 2289
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 209,
+                    "startColumn": 4,
+                    "startOffset": 4904,
+                    "endColumn": 47,
+                    "endOffset": 4947
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\color.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 1,
+                        "startOffset": 2339,
+                        "endColumn": 44,
+                        "endOffset": 2382
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 210,
+                    "startColumn": 4,
+                    "startOffset": 4952,
+                    "endColumn": 48,
+                    "endOffset": 4996
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\color.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 1,
+                        "startOffset": 2292,
+                        "endColumn": 45,
+                        "endOffset": 2336
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 211,
+                    "startColumn": 4,
+                    "startOffset": 5001,
+                    "endColumn": 40,
+                    "endOffset": 5037
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\color.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 4,
+                        "startOffset": 1753,
+                        "endColumn": 40,
+                        "endOffset": 1789
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 212,
+                    "startColumn": 4,
+                    "startOffset": 5042,
+                    "endColumn": 49,
+                    "endOffset": 5087
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\color.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 688,
+                        "endColumn": 49,
+                        "endOffset": 733
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 213,
+                    "startColumn": 4,
+                    "startOffset": 5092,
+                    "endColumn": 52,
+                    "endOffset": 5140
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\color.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 739,
+                        "endColumn": 52,
+                        "endOffset": 787
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 214,
+                    "startColumn": 4,
+                    "startOffset": 5145,
+                    "endColumn": 36,
+                    "endOffset": 5177
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\color.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 924,
+                        "endColumn": 36,
+                        "endOffset": 956
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 215,
+                    "startColumn": 4,
+                    "startOffset": 5182,
+                    "endColumn": 39,
+                    "endOffset": 5217
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\color.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 881,
+                        "endColumn": 39,
+                        "endOffset": 916
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 216,
+                    "startColumn": 4,
+                    "startOffset": 5222,
+                    "endColumn": 41,
+                    "endOffset": 5259
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\color.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 4,
+                        "startOffset": 1493,
+                        "endColumn": 41,
+                        "endOffset": 1530
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 217,
+                    "startColumn": 4,
+                    "startOffset": 5264,
+                    "endColumn": 46,
+                    "endOffset": 5306
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\color.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 4,
+                        "startOffset": 1536,
+                        "endColumn": 46,
+                        "endOffset": 1578
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 218,
+                    "startColumn": 4,
+                    "startOffset": 5311,
+                    "endColumn": 50,
+                    "endOffset": 5357
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\color.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 4,
+                        "startOffset": 1584,
+                        "endColumn": 50,
+                        "endOffset": 1630
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 219,
+                    "startColumn": 4,
+                    "startOffset": 5362,
+                    "endColumn": 39,
+                    "endOffset": 5397
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\color.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1012,
+                        "endColumn": 39,
+                        "endOffset": 1047
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 220,
+                    "startColumn": 4,
+                    "startOffset": 5402,
+                    "endColumn": 39,
+                    "endOffset": 5437
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\color.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 357,
+                        "endColumn": 39,
+                        "endOffset": 392
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 221,
+                    "startColumn": 4,
+                    "startOffset": 5442,
+                    "endColumn": 38,
+                    "endOffset": 5476
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\color.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 4,
+                        "startOffset": 1795,
+                        "endColumn": 38,
+                        "endOffset": 1829
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 222,
+                    "startColumn": 4,
+                    "startOffset": 5481,
+                    "endColumn": 38,
+                    "endOffset": 5515
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\color.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 4,
+                        "startOffset": 1636,
+                        "endColumn": 38,
+                        "endOffset": 1670
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 223,
+                    "startColumn": 4,
+                    "startOffset": 5520,
+                    "endColumn": 44,
+                    "endOffset": 5560
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\color.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 1,
+                        "startOffset": 2059,
+                        "endColumn": 41,
+                        "endOffset": 2099
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 224,
+                    "startColumn": 4,
+                    "startOffset": 5565,
+                    "endColumn": 49,
+                    "endOffset": 5610
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\color.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 530,
+                        "endColumn": 49,
+                        "endOffset": 575
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 225,
+                    "startColumn": 4,
+                    "startOffset": 5615,
+                    "endColumn": 57,
+                    "endOffset": 5668
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\color.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 581,
+                        "endColumn": 57,
+                        "endOffset": 634
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 226,
+                    "startColumn": 4,
+                    "startOffset": 5673,
+                    "endColumn": 46,
+                    "endOffset": 5715
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\color.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 640,
+                        "endColumn": 46,
+                        "endOffset": 682
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 227,
+                    "startColumn": 4,
+                    "startOffset": 5720,
+                    "endColumn": 46,
+                    "endOffset": 5762
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\color.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 398,
+                        "endColumn": 46,
+                        "endOffset": 440
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 228,
+                    "startColumn": 4,
+                    "startOffset": 5767,
+                    "endColumn": 52,
+                    "endOffset": 5815
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\color.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 1204,
+                        "endColumn": 52,
+                        "endOffset": 1252
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 229,
+                    "startColumn": 4,
+                    "startOffset": 5820,
+                    "endColumn": 58,
+                    "endOffset": 5874
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\color.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 1320,
+                        "endColumn": 58,
+                        "endOffset": 1374
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 230,
+                    "startColumn": 4,
+                    "startOffset": 5879,
+                    "endColumn": 60,
+                    "endOffset": 5935
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\color.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 1258,
+                        "endColumn": 60,
+                        "endOffset": 1314
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 231,
+                    "startColumn": 4,
+                    "startOffset": 5940,
+                    "endColumn": 54,
+                    "endOffset": 5990
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\color.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 1148,
+                        "endColumn": 54,
+                        "endOffset": 1198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 232,
+                    "startColumn": 4,
+                    "startOffset": 5995,
+                    "endColumn": 47,
+                    "endOffset": 6038
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\color.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 1,
+                        "startOffset": 2199,
+                        "endColumn": 44,
+                        "endOffset": 2242
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 233,
+                    "startColumn": 4,
+                    "startOffset": 6043,
+                    "endColumn": 48,
+                    "endOffset": 6087
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\color.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 1,
+                        "startOffset": 2104,
+                        "endColumn": 45,
+                        "endOffset": 2148
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 234,
+                    "startColumn": 4,
+                    "startOffset": 6092,
+                    "endColumn": 49,
+                    "endOffset": 6137
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\color.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 1,
+                        "startOffset": 2151,
+                        "endColumn": 46,
+                        "endOffset": 2196
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 235,
+                    "startColumn": 4,
+                    "startOffset": 6142,
+                    "endColumn": 47,
+                    "endOffset": 6185
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\color.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 107,
+                        "endColumn": 47,
+                        "endOffset": 150
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 236,
+                    "startColumn": 4,
+                    "startOffset": 6190,
+                    "endColumn": 43,
+                    "endOffset": 6229
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\color.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 1,
+                        "startOffset": 1839,
+                        "endColumn": 40,
+                        "endOffset": 1878
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 237,
+                    "startColumn": 4,
+                    "startOffset": 6234,
+                    "endColumn": 44,
+                    "endOffset": 6274
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\color.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 1,
+                        "startOffset": 1881,
+                        "endColumn": 41,
+                        "endOffset": 1921
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 238,
+                    "startColumn": 4,
+                    "startOffset": 6279,
+                    "endColumn": 40,
+                    "endOffset": 6315
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\color.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 488,
+                        "endColumn": 40,
+                        "endOffset": 524
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 239,
+                    "startColumn": 4,
+                    "startOffset": 6320,
+                    "endColumn": 45,
+                    "endOffset": 6361
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\color.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 1,
+                        "startOffset": 1924,
+                        "endColumn": 42,
+                        "endOffset": 1965
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 240,
+                    "startColumn": 4,
+                    "startOffset": 6366,
+                    "endColumn": 52,
+                    "endOffset": 6414
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\color.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 1,
+                        "startOffset": 1968,
+                        "endColumn": 49,
+                        "endOffset": 2016
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 241,
+                    "startColumn": 4,
+                    "startOffset": 6419,
+                    "endColumn": 40,
+                    "endOffset": 6455
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\color.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 446,
+                        "endColumn": 40,
+                        "endOffset": 482
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 242,
+                    "startColumn": 4,
+                    "startOffset": 6460,
+                    "endColumn": 41,
+                    "endOffset": 6497
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\color.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 1,
+                        "startOffset": 2019,
+                        "endColumn": 38,
+                        "endOffset": 2056
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 243,
+                    "startColumn": 4,
+                    "startOffset": 6502,
+                    "endColumn": 42,
+                    "endOffset": 6540
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\color.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 793,
+                        "endColumn": 42,
+                        "endOffset": 831
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 244,
+                    "startColumn": 4,
+                    "startOffset": 6545,
+                    "endColumn": 43,
+                    "endOffset": 6584
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\color.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 4,
+                        "startOffset": 1676,
+                        "endColumn": 43,
+                        "endOffset": 1715
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 245,
+                    "startColumn": 4,
+                    "startOffset": 6589,
+                    "endColumn": 45,
+                    "endOffset": 6630
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\color.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 5,
+                        "startOffset": 60,
+                        "endColumn": 46,
+                        "endOffset": 101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 246,
+                    "startColumn": 4,
+                    "startOffset": 6635,
+                    "endColumn": 39,
+                    "endOffset": 6670
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\color.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 8,
+                        "startOffset": 1452,
+                        "endColumn": 43,
+                        "endOffset": 1487
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 247,
+                    "startColumn": 4,
+                    "startOffset": 6675,
+                    "endColumn": 38,
+                    "endOffset": 6709
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\color.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 1053,
+                        "endColumn": 38,
+                        "endOffset": 1087
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 248,
+                    "startColumn": 4,
+                    "startOffset": 6714,
+                    "endColumn": 42,
+                    "endOffset": 6752
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 337,
+                        "endColumn": 42,
+                        "endOffset": 375
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 249,
+                    "startColumn": 4,
+                    "startOffset": 6757,
+                    "endColumn": 36,
+                    "endOffset": 6789
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 304,
+                        "startColumn": 1,
+                        "startOffset": 9580,
+                        "endColumn": 33,
+                        "endOffset": 9612
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 250,
+                    "startColumn": 4,
+                    "startOffset": 6794,
+                    "endColumn": 56,
+                    "endOffset": 6846
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 89,
+                        "startColumn": 1,
+                        "startOffset": 4507,
+                        "endColumn": 53,
+                        "endOffset": 4559
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 251,
+                    "startColumn": 4,
+                    "startOffset": 6851,
+                    "endColumn": 45,
+                    "endOffset": 6892
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 301,
+                        "startColumn": 1,
+                        "startOffset": 9459,
+                        "endColumn": 42,
+                        "endOffset": 9500
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 252,
+                    "startColumn": 4,
+                    "startOffset": 6897,
+                    "endColumn": 48,
+                    "endOffset": 6941
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 86,
+                        "startColumn": 1,
+                        "startOffset": 4379,
+                        "endColumn": 45,
+                        "endOffset": 4423
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 253,
+                    "startColumn": 4,
+                    "startOffset": 6946,
+                    "endColumn": 66,
+                    "endOffset": 7008
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 1,
+                        "startOffset": 1421,
+                        "endColumn": 63,
+                        "endOffset": 1483
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 254,
+                    "startColumn": 4,
+                    "startOffset": 7013,
+                    "endColumn": 43,
+                    "endOffset": 7052
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 84,
+                        "startColumn": 1,
+                        "startOffset": 4290,
+                        "endColumn": 40,
+                        "endOffset": 4329
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 255,
+                    "startColumn": 4,
+                    "startOffset": 7057,
+                    "endColumn": 50,
+                    "endOffset": 7103
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 85,
+                        "startColumn": 1,
+                        "startOffset": 4331,
+                        "endColumn": 47,
+                        "endOffset": 4377
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 256,
+                    "startColumn": 4,
+                    "startOffset": 7108,
+                    "endColumn": 37,
+                    "endOffset": 7141
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 303,
+                        "startColumn": 1,
+                        "startOffset": 9545,
+                        "endColumn": 34,
+                        "endOffset": 9578
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 257,
+                    "startColumn": 4,
+                    "startOffset": 7146,
+                    "endColumn": 40,
+                    "endOffset": 7182
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 305,
+                        "startColumn": 1,
+                        "startOffset": 9614,
+                        "endColumn": 37,
+                        "endOffset": 9650
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 258,
+                    "startColumn": 4,
+                    "startOffset": 7187,
+                    "endColumn": 43,
+                    "endOffset": 7226
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 87,
+                        "startColumn": 1,
+                        "startOffset": 4425,
+                        "endColumn": 40,
+                        "endOffset": 4464
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 259,
+                    "startColumn": 4,
+                    "startOffset": 7231,
+                    "endColumn": 45,
+                    "endOffset": 7272
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 302,
+                        "startColumn": 1,
+                        "startOffset": 9502,
+                        "endColumn": 42,
+                        "endOffset": 9543
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 260,
+                    "startColumn": 4,
+                    "startOffset": 7277,
+                    "endColumn": 43,
+                    "endOffset": 7316
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 88,
+                        "startColumn": 1,
+                        "startOffset": 4466,
+                        "endColumn": 40,
+                        "endOffset": 4505
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 261,
+                    "startColumn": 4,
+                    "startOffset": 7321,
+                    "endColumn": 44,
+                    "endOffset": 7361
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 796,
+                        "endColumn": 44,
+                        "endOffset": 836
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 262,
+                    "startColumn": 4,
+                    "startOffset": 7366,
+                    "endColumn": 52,
+                    "endOffset": 7414
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 636,
+                        "endColumn": 52,
+                        "endOffset": 684
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 263,
+                    "startColumn": 4,
+                    "startOffset": 7419,
+                    "endColumn": 48,
+                    "endOffset": 7463
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 689,
+                        "endColumn": 48,
+                        "endOffset": 733
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 264,
+                    "startColumn": 4,
+                    "startOffset": 7468,
+                    "endColumn": 57,
+                    "endOffset": 7521
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 738,
+                        "endColumn": 57,
+                        "endOffset": 791
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 265,
+                    "startColumn": 4,
+                    "startOffset": 7526,
+                    "endColumn": 62,
+                    "endOffset": 7584
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 913,
+                        "endColumn": 62,
+                        "endOffset": 971
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 266,
+                    "startColumn": 4,
+                    "startOffset": 7589,
+                    "endColumn": 71,
+                    "endOffset": 7656
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 841,
+                        "endColumn": 71,
+                        "endOffset": 908
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 267,
+                    "startColumn": 4,
+                    "startOffset": 7661,
+                    "endColumn": 51,
+                    "endOffset": 7708
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 306,
+                        "startColumn": 1,
+                        "startOffset": 9652,
+                        "endColumn": 48,
+                        "endOffset": 9699
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 268,
+                    "startColumn": 4,
+                    "startOffset": 7713,
+                    "endColumn": 40,
+                    "endOffset": 7749
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 380,
+                        "endColumn": 40,
+                        "endOffset": 416
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 269,
+                    "startColumn": 4,
+                    "startOffset": 7754,
+                    "endColumn": 47,
+                    "endOffset": 7797
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 1,
+                        "startOffset": 1150,
+                        "endColumn": 44,
+                        "endOffset": 1193
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 270,
+                    "startColumn": 4,
+                    "startOffset": 7802,
+                    "endColumn": 49,
+                    "endOffset": 7847
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 47,
+                        "startColumn": 1,
+                        "startOffset": 2049,
+                        "endColumn": 46,
+                        "endOffset": 2094
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 271,
+                    "startColumn": 4,
+                    "startOffset": 7852,
+                    "endColumn": 57,
+                    "endOffset": 7905
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 1,
+                        "startOffset": 1195,
+                        "endColumn": 54,
+                        "endOffset": 1248
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 272,
+                    "startColumn": 4,
+                    "startOffset": 7910,
+                    "endColumn": 54,
+                    "endOffset": 7960
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 1,
+                        "startOffset": 1369,
+                        "endColumn": 51,
+                        "endOffset": 1419
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 273,
+                    "startColumn": 4,
+                    "startOffset": 7965,
+                    "endColumn": 46,
+                    "endOffset": 8007
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 1,
+                        "startOffset": 1325,
+                        "endColumn": 43,
+                        "endOffset": 1367
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 274,
+                    "startColumn": 4,
+                    "startOffset": 8012,
+                    "endColumn": 77,
+                    "endOffset": 8085
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 1,
+                        "startOffset": 1250,
+                        "endColumn": 74,
+                        "endOffset": 1323
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 275,
+                    "startColumn": 4,
+                    "startOffset": 8090,
+                    "endColumn": 69,
+                    "endOffset": 8155
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 48,
+                        "startColumn": 1,
+                        "startOffset": 2096,
+                        "endColumn": 66,
+                        "endOffset": 2161
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 276,
+                    "startColumn": 4,
+                    "startOffset": 8160,
+                    "endColumn": 110,
+                    "endOffset": 8266
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-fr\\values-fr.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 110,
+                        "endOffset": 161
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 277,
+                    "startColumn": 4,
+                    "startOffset": 8271,
+                    "endColumn": 107,
+                    "endOffset": 8374
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-fr\\values-fr.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 166,
+                        "endColumn": 107,
+                        "endOffset": 269
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 278,
+                    "startColumn": 4,
+                    "startOffset": 8379,
+                    "endColumn": 122,
+                    "endOffset": 8497
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-fr\\values-fr.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 274,
+                        "endColumn": 122,
+                        "endOffset": 392
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 279,
+                    "startColumn": 4,
+                    "startOffset": 8502,
+                    "endColumn": 114,
+                    "endOffset": 8612
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-fr\\values-fr.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 397,
+                        "endColumn": 114,
+                        "endOffset": 507
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 280,
+                    "startColumn": 4,
+                    "startOffset": 8617,
+                    "endColumn": 110,
+                    "endOffset": 8723
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-fr\\values-fr.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 512,
+                        "endColumn": 110,
+                        "endOffset": 618
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 281,
+                    "startColumn": 4,
+                    "startOffset": 8728,
+                    "endColumn": 81,
+                    "endOffset": 8805
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-fr\\values-fr.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 623,
+                        "endColumn": 81,
+                        "endOffset": 700
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 282,
+                    "startColumn": 4,
+                    "startOffset": 8810,
+                    "endColumn": 105,
+                    "endOffset": 8911
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-fr\\values-fr.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 705,
+                        "endColumn": 105,
+                        "endOffset": 806
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 283,
+                    "startColumn": 4,
+                    "startOffset": 8916,
+                    "endColumn": 129,
+                    "endOffset": 9041
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-fr\\values-fr.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 811,
+                        "endColumn": 129,
+                        "endOffset": 936
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 284,
+                    "startColumn": 4,
+                    "startOffset": 9046,
+                    "endColumn": 82,
+                    "endOffset": 9124
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-fr\\values-fr.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 941,
+                        "endColumn": 82,
+                        "endOffset": 1019
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 285,
+                    "startColumn": 4,
+                    "startOffset": 9129,
+                    "endColumn": 79,
+                    "endOffset": 9204
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-fr\\values-fr.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1024,
+                        "endColumn": 79,
+                        "endOffset": 1099
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 286,
+                    "startColumn": 4,
+                    "startOffset": 9209,
+                    "endColumn": 85,
+                    "endOffset": 9290
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-fr\\values-fr.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1104,
+                        "endColumn": 85,
+                        "endOffset": 1185
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 287,
+                    "startColumn": 4,
+                    "startOffset": 9295,
+                    "endColumn": 109,
+                    "endOffset": 9400
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-fr\\values-fr.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1190,
+                        "endColumn": 109,
+                        "endOffset": 1295
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 288,
+                    "startColumn": 4,
+                    "startOffset": 9405,
+                    "endColumn": 111,
+                    "endOffset": 9512
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-fr\\values-fr.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1300,
+                        "endColumn": 111,
+                        "endOffset": 1407
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 289,
+                    "startColumn": 4,
+                    "startOffset": 9517,
+                    "endColumn": 102,
+                    "endOffset": 9615
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-fr\\values-fr.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1412,
+                        "endColumn": 102,
+                        "endOffset": 1510
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 290,
+                    "startColumn": 4,
+                    "startOffset": 9620,
+                    "endColumn": 110,
+                    "endOffset": 9726
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-fr\\values-fr.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1515,
+                        "endColumn": 110,
+                        "endOffset": 1621
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 291,
+                    "startColumn": 4,
+                    "startOffset": 9731,
+                    "endColumn": 106,
+                    "endOffset": 9833
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-fr\\values-fr.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1626,
+                        "endColumn": 106,
+                        "endOffset": 1728
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 292,
+                    "startColumn": 4,
+                    "startOffset": 9838,
+                    "endColumn": 106,
+                    "endOffset": 9940
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-fr\\values-fr.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1733,
+                        "endColumn": 106,
+                        "endOffset": 1835
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 293,
+                    "startColumn": 4,
+                    "startOffset": 9945,
+                    "endColumn": 121,
+                    "endOffset": 10062
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-fr\\values-fr.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1840,
+                        "endColumn": 121,
+                        "endOffset": 1957
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 294,
+                    "startColumn": 4,
+                    "startOffset": 10067,
+                    "endColumn": 98,
+                    "endOffset": 10161
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-fr\\values-fr.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1962,
+                        "endColumn": 98,
+                        "endOffset": 2056
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 295,
+                    "startColumn": 4,
+                    "startOffset": 10166,
+                    "endColumn": 51,
+                    "endOffset": 10213
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 355,
+                        "startColumn": 1,
+                        "startOffset": 12139,
+                        "endColumn": 48,
+                        "endOffset": 12186
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 296,
+                    "startColumn": 4,
+                    "startOffset": 10218,
+                    "endColumn": 88,
+                    "endOffset": 10302
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 346,
+                        "startColumn": 1,
+                        "startOffset": 11684,
+                        "endColumn": 85,
+                        "endOffset": 11768
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 297,
+                    "startColumn": 4,
+                    "startOffset": 10307,
+                    "endColumn": 47,
+                    "endOffset": 10350
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 1,
+                        "startOffset": 79,
+                        "endColumn": 44,
+                        "endOffset": 122
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 298,
+                    "startColumn": 4,
+                    "startOffset": 10355,
+                    "endColumn": 46,
+                    "endOffset": 10397
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 324,
+                        "startColumn": 1,
+                        "startOffset": 10606,
+                        "endColumn": 43,
+                        "endOffset": 10648
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 299,
+                    "startColumn": 4,
+                    "startOffset": 10402,
+                    "endColumn": 62,
+                    "endOffset": 10460
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 325,
+                        "startColumn": 1,
+                        "startOffset": 10650,
+                        "endColumn": 59,
+                        "endOffset": 10708
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 300,
+                    "startColumn": 4,
+                    "startOffset": 10465,
+                    "endColumn": 59,
+                    "endOffset": 10520
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 356,
+                        "startColumn": 1,
+                        "startOffset": 12188,
+                        "endColumn": 56,
+                        "endOffset": 12243
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 301,
+                    "startColumn": 4,
+                    "startOffset": 10525,
+                    "endColumn": 46,
+                    "endOffset": 10567
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 335,
+                        "startColumn": 1,
+                        "startOffset": 11069,
+                        "endColumn": 43,
+                        "endOffset": 11111
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 302,
+                    "startColumn": 4,
+                    "startOffset": 10572,
+                    "endColumn": 46,
+                    "endOffset": 10614
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 318,
+                        "startColumn": 1,
+                        "startOffset": 10335,
+                        "endColumn": 43,
+                        "endOffset": 10377
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 303,
+                    "startColumn": 4,
+                    "startOffset": 10619,
+                    "endColumn": 52,
+                    "endOffset": 10667
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1008,
+                        "endColumn": 52,
+                        "endOffset": 1056
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 304,
+                    "startColumn": 4,
+                    "startOffset": 10672,
+                    "endColumn": 51,
+                    "endOffset": 10719
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 1061,
+                        "endColumn": 51,
+                        "endOffset": 1108
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 305,
+                    "startColumn": 4,
+                    "startOffset": 10724,
+                    "endColumn": 51,
+                    "endOffset": 10771
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 331,
+                        "startColumn": 1,
+                        "startOffset": 10988,
+                        "endColumn": 48,
+                        "endOffset": 11035
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 306,
+                    "startColumn": 4,
+                    "startOffset": 10776,
+                    "endColumn": 43,
+                    "endOffset": 10815
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 336,
+                        "startColumn": 1,
+                        "startOffset": 11113,
+                        "endColumn": 40,
+                        "endOffset": 11152
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 307,
+                    "startColumn": 4,
+                    "startOffset": 10820,
+                    "endColumn": 181,
+                    "endOffset": 10997
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 421,
+                        "endColumn": 181,
+                        "endOffset": 598
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 308,
+                    "startColumn": 4,
+                    "startOffset": 11002,
+                    "endColumn": 87,
+                    "endOffset": 11085
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 361,
+                        "startColumn": 1,
+                        "startOffset": 12277,
+                        "endColumn": 84,
+                        "endOffset": 12360
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 309,
+                    "startColumn": 4,
+                    "startOffset": 11090,
+                    "endColumn": 75,
+                    "endOffset": 11161
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 362,
+                        "startColumn": 1,
+                        "startOffset": 12362,
+                        "endColumn": 72,
+                        "endOffset": 12433
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 310,
+                    "startColumn": 4,
+                    "startOffset": 11166,
+                    "endColumn": 96,
+                    "endOffset": 11258
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 363,
+                        "startColumn": 1,
+                        "startOffset": 12435,
+                        "endColumn": 93,
+                        "endOffset": 12527
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 311,
+                    "startColumn": 4,
+                    "startOffset": 11263,
+                    "endColumn": 69,
+                    "endOffset": 11328
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 364,
+                        "startColumn": 1,
+                        "startOffset": 12529,
+                        "endColumn": 66,
+                        "endOffset": 12594
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 312,
+                    "startColumn": 4,
+                    "startOffset": 11333,
+                    "endColumn": 47,
+                    "endOffset": 11376
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 1,
+                        "startOffset": 289,
+                        "endColumn": 44,
+                        "endOffset": 332
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 313,
+                    "startColumn": 4,
+                    "startOffset": 11381,
+                    "endColumn": 46,
+                    "endOffset": 11423
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 1,
+                        "startOffset": 245,
+                        "endColumn": 43,
+                        "endOffset": 287
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 314,
+                    "startColumn": 4,
+                    "startOffset": 11428,
+                    "endColumn": 94,
+                    "endOffset": 11518
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 367,
+                        "startColumn": 1,
+                        "startOffset": 12627,
+                        "endColumn": 91,
+                        "endOffset": 12717
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 315,
+                    "startColumn": 4,
+                    "startOffset": 11523,
+                    "endColumn": 154,
+                    "endOffset": 11673
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 368,
+                        "startColumn": 1,
+                        "startOffset": 12719,
+                        "endColumn": 151,
+                        "endOffset": 12869
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 316,
+                    "startColumn": 4,
+                    "startOffset": 11678,
+                    "endColumn": 123,
+                    "endOffset": 11797
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 369,
+                        "startColumn": 1,
+                        "startOffset": 12871,
+                        "endColumn": 120,
+                        "endOffset": 12990
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 317,
+                    "startColumn": 4,
+                    "startOffset": 11802,
+                    "endColumn": 176,
+                    "endOffset": 11974
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 370,
+                        "startColumn": 1,
+                        "startOffset": 12992,
+                        "endColumn": 173,
+                        "endOffset": 13164
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 318,
+                    "startColumn": 4,
+                    "startOffset": 11979,
+                    "endColumn": 59,
+                    "endOffset": 12034
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 1,
+                        "startOffset": 124,
+                        "endColumn": 56,
+                        "endOffset": 179
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 319,
+                    "startColumn": 4,
+                    "startOffset": 12039,
+                    "endColumn": 65,
+                    "endOffset": 12100
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 1,
+                        "startOffset": 1485,
+                        "endColumn": 62,
+                        "endOffset": 1546
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 320,
+                    "startColumn": 4,
+                    "startOffset": 12105,
+                    "endColumn": 85,
+                    "endOffset": 12186
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 62,
+                        "startColumn": 1,
+                        "startOffset": 2944,
+                        "endColumn": 82,
+                        "endOffset": 3025
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 321,
+                    "startColumn": 4,
+                    "startOffset": 12191,
+                    "endColumn": 44,
+                    "endOffset": 12231
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 54,
+                        "startColumn": 1,
+                        "startOffset": 2459,
+                        "endColumn": 41,
+                        "endOffset": 2499
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 322,
+                    "startColumn": 4,
+                    "startOffset": 12236,
+                    "endColumn": 63,
+                    "endOffset": 12295
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 52,
+                        "startColumn": 1,
+                        "startOffset": 2332,
+                        "endColumn": 60,
+                        "endOffset": 2391
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 323,
+                    "startColumn": 4,
+                    "startOffset": 12300,
+                    "endColumn": 46,
+                    "endOffset": 12342
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 51,
+                        "startColumn": 1,
+                        "startOffset": 2288,
+                        "endColumn": 43,
+                        "endOffset": 2330
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 324,
+                    "startColumn": 4,
+                    "startOffset": 12347,
+                    "endColumn": 68,
+                    "endOffset": 12411
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 53,
+                        "startColumn": 1,
+                        "startOffset": 2393,
+                        "endColumn": 65,
+                        "endOffset": 2457
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 325,
+                    "startColumn": 4,
+                    "startOffset": 12416,
+                    "endColumn": 61,
+                    "endOffset": 12473
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 341,
+                        "startColumn": 1,
+                        "startOffset": 11367,
+                        "endColumn": 58,
+                        "endOffset": 11424
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 326,
+                    "startColumn": 4,
+                    "startOffset": 12478,
+                    "endColumn": 54,
+                    "endOffset": 12528
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 340,
+                        "startColumn": 1,
+                        "startOffset": 11315,
+                        "endColumn": 51,
+                        "endOffset": 11365
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 327,
+                    "startColumn": 4,
+                    "startOffset": 12533,
+                    "endColumn": 56,
+                    "endOffset": 12585
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 338,
+                        "startColumn": 1,
+                        "startOffset": 11208,
+                        "endColumn": 53,
+                        "endOffset": 11260
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 328,
+                    "startColumn": 4,
+                    "startOffset": 12590,
+                    "endColumn": 56,
+                    "endOffset": 12642
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 337,
+                        "startColumn": 1,
+                        "startOffset": 11154,
+                        "endColumn": 53,
+                        "endOffset": 11206
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 329,
+                    "startColumn": 4,
+                    "startOffset": 12647,
+                    "endColumn": 55,
+                    "endOffset": 12698
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 339,
+                        "startColumn": 1,
+                        "startOffset": 11262,
+                        "endColumn": 52,
+                        "endOffset": 11313
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 330,
+                    "startColumn": 4,
+                    "startOffset": 12703,
+                    "endColumn": 64,
+                    "endOffset": 12763
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 316,
+                        "startColumn": 1,
+                        "startOffset": 10231,
+                        "endColumn": 61,
+                        "endOffset": 10291
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 331,
+                    "startColumn": 4,
+                    "startOffset": 12768,
+                    "endColumn": 75,
+                    "endOffset": 12839
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 315,
+                        "startColumn": 1,
+                        "startOffset": 10158,
+                        "endColumn": 72,
+                        "endOffset": 10229
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 332,
+                    "startColumn": 4,
+                    "startOffset": 12844,
+                    "endColumn": 63,
+                    "endOffset": 12903
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 381,
+                        "startColumn": 1,
+                        "startOffset": 14053,
+                        "endColumn": 60,
+                        "endOffset": 14112
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 333,
+                    "startColumn": 4,
+                    "startOffset": 12908,
+                    "endLine": 335,
+                    "endColumn": 114,
+                    "endOffset": 13314
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 373,
+                        "startColumn": 1,
+                        "startOffset": 13209,
+                        "endLine": 375,
+                        "endColumn": 114,
+                        "endOffset": 13615
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 336,
+                    "startColumn": 4,
+                    "startOffset": 13319,
+                    "endColumn": 90,
+                    "endOffset": 13405
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 344,
+                        "startColumn": 1,
+                        "startOffset": 11529,
+                        "endColumn": 87,
+                        "endOffset": 11615
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 337,
+                    "startColumn": 4,
+                    "startOffset": 13410,
+                    "endColumn": 78,
+                    "endOffset": 13484
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 379,
+                        "startColumn": 1,
+                        "startOffset": 13909,
+                        "endColumn": 75,
+                        "endOffset": 13983
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 338,
+                    "startColumn": 4,
+                    "startOffset": 13489,
+                    "endColumn": 40,
+                    "endOffset": 13525
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 96,
+                        "startColumn": 1,
+                        "startOffset": 4823,
+                        "endColumn": 37,
+                        "endOffset": 4859
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 339,
+                    "startColumn": 4,
+                    "startOffset": 13530,
+                    "endColumn": 40,
+                    "endOffset": 13566
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 95,
+                        "startColumn": 1,
+                        "startOffset": 4785,
+                        "endColumn": 37,
+                        "endOffset": 4821
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 340,
+                    "startColumn": 4,
+                    "startOffset": 13571,
+                    "endColumn": 242,
+                    "endOffset": 13809
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 377,
+                        "startColumn": 1,
+                        "startOffset": 13618,
+                        "endColumn": 239,
+                        "endOffset": 13856
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 341,
+                    "startColumn": 4,
+                    "startOffset": 13814,
+                    "endColumn": 88,
+                    "endOffset": 13898
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 93,
+                        "startColumn": 1,
+                        "startOffset": 4603,
+                        "endColumn": 85,
+                        "endOffset": 4687
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 342,
+                    "startColumn": 4,
+                    "startOffset": 13903,
+                    "endColumn": 98,
+                    "endOffset": 13997
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 94,
+                        "startColumn": 1,
+                        "startOffset": 4689,
+                        "endColumn": 95,
+                        "endOffset": 4783
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 343,
+                    "startColumn": 4,
+                    "startOffset": 14002,
+                    "endColumn": 77,
+                    "endOffset": 14075
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 352,
+                        "startColumn": 1,
+                        "startOffset": 11935,
+                        "endColumn": 74,
+                        "endOffset": 12008
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 344,
+                    "startColumn": 4,
+                    "startOffset": 14080,
+                    "endColumn": 56,
+                    "endOffset": 14132
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 343,
+                        "startColumn": 1,
+                        "startOffset": 11475,
+                        "endColumn": 53,
+                        "endOffset": 11527
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 345,
+                    "startColumn": 4,
+                    "startOffset": 14137,
+                    "endColumn": 65,
+                    "endOffset": 14198
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 353,
+                        "startColumn": 1,
+                        "startOffset": 12010,
+                        "endColumn": 62,
+                        "endOffset": 12071
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 346,
+                    "startColumn": 4,
+                    "startOffset": 14203,
+                    "endColumn": 68,
+                    "endOffset": 14267
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 354,
+                        "startColumn": 1,
+                        "startOffset": 12073,
+                        "endColumn": 65,
+                        "endOffset": 12137
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 347,
+                    "startColumn": 4,
+                    "startOffset": 14272,
+                    "endColumn": 70,
+                    "endOffset": 14338
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 380,
+                        "startColumn": 1,
+                        "startOffset": 13985,
+                        "endColumn": 67,
+                        "endOffset": 14051
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 348,
+                    "startColumn": 4,
+                    "startOffset": 14343,
+                    "endColumn": 53,
+                    "endOffset": 14392
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 378,
+                        "startColumn": 1,
+                        "startOffset": 13858,
+                        "endColumn": 50,
+                        "endOffset": 13907
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 349,
+                    "startColumn": 4,
+                    "startOffset": 14397,
+                    "endColumn": 95,
+                    "endOffset": 14488
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 73,
+                        "startColumn": 4,
+                        "startOffset": 3719,
+                        "endColumn": 95,
+                        "endOffset": 3810
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 350,
+                    "startColumn": 4,
+                    "startOffset": 14493,
+                    "endColumn": 45,
+                    "endOffset": 14534
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 308,
+                        "startColumn": 1,
+                        "startOffset": 9820,
+                        "endColumn": 42,
+                        "endOffset": 9861
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 351,
+                    "startColumn": 4,
+                    "startOffset": 14539,
+                    "endColumn": 65,
+                    "endOffset": 14600
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 309,
+                        "startColumn": 1,
+                        "startOffset": 9863,
+                        "endColumn": 62,
+                        "endOffset": 9924
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 352,
+                    "startColumn": 4,
+                    "startOffset": 14605,
+                    "endColumn": 56,
+                    "endOffset": 14657
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 310,
+                        "startColumn": 1,
+                        "startOffset": 9926,
+                        "endColumn": 53,
+                        "endOffset": 9978
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 353,
+                    "startColumn": 4,
+                    "startOffset": 14662,
+                    "endColumn": 75,
+                    "endOffset": 14733
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 311,
+                        "startColumn": 1,
+                        "startOffset": 9980,
+                        "endColumn": 72,
+                        "endOffset": 10051
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 354,
+                    "startColumn": 4,
+                    "startOffset": 14738,
+                    "endColumn": 152,
+                    "endOffset": 14886
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 57,
+                        "startColumn": 1,
+                        "startOffset": 2626,
+                        "endColumn": 149,
+                        "endOffset": 2774
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 355,
+                    "startColumn": 4,
+                    "startOffset": 14891,
+                    "endColumn": 49,
+                    "endOffset": 14936
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 1,
+                        "startOffset": 198,
+                        "endColumn": 46,
+                        "endOffset": 243
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 356,
+                    "startColumn": 4,
+                    "startOffset": 14941,
+                    "endColumn": 51,
+                    "endOffset": 14988
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 342,
+                        "startColumn": 1,
+                        "startOffset": 11426,
+                        "endColumn": 48,
+                        "endOffset": 11473
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 357,
+                    "startColumn": 4,
+                    "startOffset": 14993,
+                    "endColumn": 74,
+                    "endOffset": 15063
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 319,
+                        "startColumn": 1,
+                        "startOffset": 10379,
+                        "endColumn": 71,
+                        "endOffset": 10449
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 358,
+                    "startColumn": 4,
+                    "startOffset": 15068,
+                    "endColumn": 71,
+                    "endOffset": 15135
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 320,
+                        "startColumn": 1,
+                        "startOffset": 10451,
+                        "endColumn": 68,
+                        "endOffset": 10518
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 359,
+                    "startColumn": 4,
+                    "startOffset": 15140,
+                    "endColumn": 121,
+                    "endOffset": 15257
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 307,
+                        "startColumn": 1,
+                        "startOffset": 9701,
+                        "endColumn": 118,
+                        "endOffset": 9818
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 360,
+                    "startColumn": 4,
+                    "startOffset": 15262,
+                    "endColumn": 43,
+                    "endOffset": 15301
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 349,
+                        "startColumn": 1,
+                        "startOffset": 11797,
+                        "endColumn": 40,
+                        "endOffset": 11836
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 361,
+                    "startColumn": 4,
+                    "startOffset": 15306,
+                    "endColumn": 51,
+                    "endOffset": 15353
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 351,
+                        "startColumn": 1,
+                        "startOffset": 11886,
+                        "endColumn": 48,
+                        "endOffset": 11933
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 362,
+                    "startColumn": 4,
+                    "startOffset": 15358,
+                    "endColumn": 50,
+                    "endOffset": 15404
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 350,
+                        "startColumn": 1,
+                        "startOffset": 11838,
+                        "endColumn": 47,
+                        "endOffset": 11884
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 363,
+                    "startColumn": 4,
+                    "startOffset": 15409,
+                    "endColumn": 60,
+                    "endOffset": 15465
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 68,
+                        "startColumn": 1,
+                        "startOffset": 3406,
+                        "endColumn": 57,
+                        "endOffset": 3462
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 364,
+                    "startColumn": 4,
+                    "startOffset": 15470,
+                    "endColumn": 58,
+                    "endOffset": 15524
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 69,
+                        "startColumn": 4,
+                        "startOffset": 3469,
+                        "endColumn": 58,
+                        "endOffset": 3523
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 365,
+                    "startColumn": 4,
+                    "startOffset": 15529,
+                    "endColumn": 50,
+                    "endOffset": 15575
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 70,
+                        "startColumn": 4,
+                        "startOffset": 3530,
+                        "endColumn": 50,
+                        "endOffset": 3576
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 366,
+                    "startColumn": 4,
+                    "startOffset": 15580,
+                    "endColumn": 58,
+                    "endOffset": 15634
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 67,
+                        "startColumn": 1,
+                        "startOffset": 3348,
+                        "endColumn": 55,
+                        "endOffset": 3402
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 367,
+                    "startColumn": 4,
+                    "startOffset": 15639,
+                    "endColumn": 72,
+                    "endOffset": 15707
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 329,
+                        "startColumn": 1,
+                        "startOffset": 10874,
+                        "endColumn": 69,
+                        "endOffset": 10942
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 368,
+                    "startColumn": 4,
+                    "startOffset": 15712,
+                    "endColumn": 48,
+                    "endOffset": 15756
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 328,
+                        "startColumn": 1,
+                        "startOffset": 10828,
+                        "endColumn": 45,
+                        "endOffset": 10872
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 369,
+                    "startColumn": 4,
+                    "startOffset": 15761,
+                    "endColumn": 86,
+                    "endOffset": 15843
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 72,
+                        "startColumn": 4,
+                        "startOffset": 3631,
+                        "endColumn": 86,
+                        "endOffset": 3713
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 370,
+                    "startColumn": 4,
+                    "startOffset": 15848,
+                    "endColumn": 48,
+                    "endOffset": 15892
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 321,
+                        "startColumn": 1,
+                        "startOffset": 10520,
+                        "endColumn": 45,
+                        "endOffset": 10564
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 371,
+                    "startColumn": 4,
+                    "startOffset": 15897,
+                    "endColumn": 73,
+                    "endOffset": 15966
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 327,
+                        "startColumn": 1,
+                        "startOffset": 10757,
+                        "endColumn": 70,
+                        "endOffset": 10826
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 372,
+                    "startColumn": 4,
+                    "startOffset": 15971,
+                    "endColumn": 49,
+                    "endOffset": 16016
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 326,
+                        "startColumn": 1,
+                        "startOffset": 10710,
+                        "endColumn": 46,
+                        "endOffset": 10755
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 373,
+                    "startColumn": 4,
+                    "startOffset": 16021,
+                    "endColumn": 46,
+                    "endOffset": 16063
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 330,
+                        "startColumn": 1,
+                        "startOffset": 10944,
+                        "endColumn": 43,
+                        "endOffset": 10986
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 374,
+                    "startColumn": 4,
+                    "startOffset": 16068,
+                    "endColumn": 51,
+                    "endOffset": 16115
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 2,
+                        "startOffset": 1971,
+                        "endColumn": 49,
+                        "endOffset": 2018
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 375,
+                    "startColumn": 4,
+                    "startOffset": 16120,
+                    "endColumn": 52,
+                    "endOffset": 16168
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 2,
+                        "startOffset": 1604,
+                        "endColumn": 50,
+                        "endOffset": 1652
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 376,
+                    "startColumn": 4,
+                    "startOffset": 16173,
+                    "endColumn": 98,
+                    "endOffset": 16267
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 2,
+                        "startOffset": 1655,
+                        "endColumn": 96,
+                        "endOffset": 1749
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 377,
+                    "startColumn": 4,
+                    "startOffset": 16272,
+                    "endColumn": 186,
+                    "endOffset": 16454
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 2,
+                        "startOffset": 1752,
+                        "endColumn": 184,
+                        "endOffset": 1934
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 378,
+                    "startColumn": 4,
+                    "startOffset": 16459,
+                    "endColumn": 87,
+                    "endOffset": 16542
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 81,
+                        "startColumn": 4,
+                        "startOffset": 4175,
+                        "endColumn": 87,
+                        "endOffset": 4258
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 379,
+                    "startColumn": 4,
+                    "startOffset": 16547,
+                    "endColumn": 80,
+                    "endOffset": 16623
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 66,
+                        "startColumn": 4,
+                        "startOffset": 3270,
+                        "endColumn": 80,
+                        "endOffset": 3346
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 380,
+                    "startColumn": 4,
+                    "startOffset": 16628,
+                    "endColumn": 80,
+                    "endOffset": 16704
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 63,
+                        "startColumn": 4,
+                        "startOffset": 3031,
+                        "endColumn": 80,
+                        "endOffset": 3107
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 381,
+                    "startColumn": 4,
+                    "startOffset": 16709,
+                    "endColumn": 29,
+                    "endOffset": 16734
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 77,
+                        "startColumn": 4,
+                        "startOffset": 3859,
+                        "endColumn": 37,
+                        "endOffset": 3892
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 382,
+                    "startColumn": 4,
+                    "startOffset": 16739,
+                    "endColumn": 42,
+                    "endOffset": 16777
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 61,
+                        "startColumn": 4,
+                        "startOffset": 2903,
+                        "endColumn": 42,
+                        "endOffset": 2941
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 383,
+                    "startColumn": 4,
+                    "startOffset": 16782,
+                    "endColumn": 38,
+                    "endOffset": 16816
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 59,
+                        "startColumn": 2,
+                        "startOffset": 2818,
+                        "endColumn": 36,
+                        "endOffset": 2852
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 384,
+                    "startColumn": 4,
+                    "startOffset": 16821,
+                    "endColumn": 44,
+                    "endOffset": 16861
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 60,
+                        "startColumn": 4,
+                        "startOffset": 2857,
+                        "endColumn": 44,
+                        "endOffset": 2897
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 385,
+                    "startColumn": 4,
+                    "startOffset": 16866,
+                    "endColumn": 43,
+                    "endOffset": 16905
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 58,
+                        "startColumn": 1,
+                        "startOffset": 2776,
+                        "endColumn": 40,
+                        "endOffset": 2815
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 386,
+                    "startColumn": 4,
+                    "startOffset": 16910,
+                    "endColumn": 67,
+                    "endOffset": 16973
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 64,
+                        "startColumn": 4,
+                        "startOffset": 3112,
+                        "endColumn": 67,
+                        "endOffset": 3175
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 387,
+                    "startColumn": 4,
+                    "startOffset": 16978,
+                    "endColumn": 55,
+                    "endOffset": 17029
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 2,
+                        "startOffset": 1549,
+                        "endColumn": 53,
+                        "endOffset": 1600
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 388,
+                    "startColumn": 4,
+                    "startOffset": 17034,
+                    "endColumn": 75,
+                    "endOffset": 17105
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 78,
+                        "startColumn": 5,
+                        "startOffset": 3899,
+                        "endColumn": 76,
+                        "endOffset": 3970
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 389,
+                    "startColumn": 4,
+                    "startOffset": 17110,
+                    "endColumn": 89,
+                    "endOffset": 17195
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 65,
+                        "startColumn": 4,
+                        "startOffset": 3180,
+                        "endColumn": 89,
+                        "endOffset": 3265
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 390,
+                    "startColumn": 4,
+                    "startOffset": 17200,
+                    "endColumn": 106,
+                    "endOffset": 17302
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 80,
+                        "startColumn": 4,
+                        "startOffset": 4065,
+                        "endColumn": 106,
+                        "endOffset": 4167
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 391,
+                    "startColumn": 4,
+                    "startOffset": 17307,
+                    "endColumn": 88,
+                    "endOffset": 17391
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 79,
+                        "startColumn": 4,
+                        "startOffset": 3975,
+                        "endColumn": 88,
+                        "endOffset": 4059
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 392,
+                    "startColumn": 4,
+                    "startOffset": 17396,
+                    "endColumn": 100,
+                    "endOffset": 17492
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\values-fr\\values-fr.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2061,
+                        "endColumn": 100,
+                        "endOffset": 2157
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 393,
+                    "startColumn": 4,
+                    "startOffset": 17497,
+                    "endColumn": 63,
+                    "endOffset": 17556
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 56,
+                        "startColumn": 1,
+                        "startOffset": 2565,
+                        "endColumn": 60,
+                        "endOffset": 2624
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 394,
+                    "startColumn": 4,
+                    "startOffset": 17561,
+                    "endColumn": 72,
+                    "endOffset": 17629
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 312,
+                        "startColumn": 1,
+                        "startOffset": 10053,
+                        "endColumn": 69,
+                        "endOffset": 10121
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 395,
+                    "startColumn": 4,
+                    "startOffset": 17634,
+                    "endColumn": 61,
+                    "endOffset": 17691
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 50,
+                        "startColumn": 1,
+                        "startOffset": 2229,
+                        "endColumn": 58,
+                        "endOffset": 2286
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 396,
+                    "startColumn": 4,
+                    "startOffset": 17696,
+                    "endColumn": 68,
+                    "endOffset": 17760
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 49,
+                        "startColumn": 1,
+                        "startOffset": 2163,
+                        "endColumn": 65,
+                        "endOffset": 2227
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 397,
+                    "startColumn": 4,
+                    "startOffset": 17765,
+                    "endColumn": 66,
+                    "endOffset": 17827
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 55,
+                        "startColumn": 1,
+                        "startOffset": 2501,
+                        "endColumn": 63,
+                        "endOffset": 2563
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 398,
+                    "startColumn": 4,
+                    "startOffset": 17832,
+                    "endColumn": 48,
+                    "endOffset": 17876
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 71,
+                        "startColumn": 4,
+                        "startOffset": 3582,
+                        "endColumn": 48,
+                        "endOffset": 3626
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 399,
+                    "startColumn": 4,
+                    "startOffset": 17881,
+                    "endColumn": 44,
+                    "endOffset": 17921
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 317,
+                        "startColumn": 1,
+                        "startOffset": 10293,
+                        "endColumn": 41,
+                        "endOffset": 10333
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 400,
+                    "startColumn": 4,
+                    "startOffset": 17926,
+                    "endColumn": 69,
+                    "endOffset": 17991
+                },
+                "from": {
+                    "file": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\values-fr\\strings.xml",
+                    "position": {
+                        "startLine": 345,
+                        "startColumn": 1,
+                        "startOffset": 11617,
+                        "endColumn": 66,
+                        "endOffset": 11682
+                    }
+                }
+            }
+        ]
+    }
+]

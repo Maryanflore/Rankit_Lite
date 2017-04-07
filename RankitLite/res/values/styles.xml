@@ -1,0 +1,127 @@
+<resources xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools">
+
+    <!--
+        Base application theme, dependent on API level. This theme is replaced
+        by AppBaseTheme from res/values-vXX/styles.xml on newer devices.
+    -->
+
+
+
+
+
+<style name="AppTheme" parent="Theme.AppCompat.Light">
+       <!--  <item name="android:actionBarTabBarStyle">@style/Theme.app.tabbar.style</item> -->
+        <item name="actionBarTabBarStyle">@style/Widget.app.ActionBar.TabBar</item>
+    <item name="windowNoTitle">true</item>
+    <item name="windowActionBar">false</item>
+         <item name="actionBarTabTextStyle">@style/AppTheme.ActionBar.TabText</item>
+    <item name="colorPrimary">@color/material_teal_a400</item>
+    <item name="colorPrimaryDark">@color/material_teal_a400</item>
+    <item name="colorAccent">#078ef0</item>
+
+    <item name="colorControlActivated">#078ef0</item>
+    <item name="colorControlNormal">#73c2fb</item>
+    <item name="colorControlHighlight">@color/edit1</item>
+
+</style>
+
+<style name="MyEditText" parent="@android:style/Widget.EditText">
+    <item name="colorControlActivated">@color/edit1</item>
+    <item name="colorControlNormal">@color/edit1</item>
+    <item name="colorControlHighlight">@color/edit1</item>
+</style>
+
+    <style name="AppTheme.ActionBar">
+        <item name="windowActionBar">true</item>
+        <item name="android:windowBackground">@color/material_teal_a400</item>
+
+
+    </style>
+
+
+
+    <style name="ActionBarTabStyle.Rankitlite" parent="@style/Widget.AppCompat.Light.ActionBar.TabView">
+        <item name="android:background">@drawable/tab_indicator_ab_rankitlite</item>
+    </style>
+    <style name="SampleHeader">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textSize">@dimen/headerTitle</item>
+        <item name="android:textColor">?android:textColorPrimary</item>
+        <item name="android:fontFamily" tools:ignore="NewApi">sans-serif-light</item>
+        <item name="android:layout_marginLeft">@dimen/headerMarginStart</item>
+        <item name="android:layout_marginStart" tools:ignore="NewApi">@dimen/headerMarginStart
+        </item>
+        <item name="android:layout_marginTop">@dimen/headerMarginVertical</item>
+        <item name="android:layout_marginBottom">@dimen/headerMarginVertical</item>
+    </style>
+
+
+    <!-- Button -->
+    <style name="ButtonText" parent="@android:style/Widget.Button.Small">
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:textColor">#FFFFFF</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textStyle">bold</item>
+    </style>
+
+    <!-- Tab -->
+    <style name="Tab" parent="@android:style/Widget.TabWidget">
+        <item name="android:textColor">#ffffff</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textSize">12sp</item>
+
+    </style>
+    <!-- Inscription-->
+    <style name="myImageView2">
+        <!-- 3dp so the background border to be visible -->
+        <item name="android:padding">3dp</item>
+        <item name="android:scaleType">fitCenter</item>
+    </style>
+
+    <style name="myImageView">
+        <!-- 3dp so the background border to be visible -->
+        <item name="android:padding">3dp</item>
+        <item name="android:background">@drawable/image_border</item>
+        <item name="android:scaleType">fitCenter</item>
+    </style>
+
+    <style name="CustomProgressBar" parent="@style/Widget.MaterialProgressBar.ProgressBar.Horizontal">
+        <item name="android:progressDrawable">@drawable/progressbar</item>
+        <item name="android:height">5dp</item>
+    </style>
+<!-- <style name="Theme.app.tabbar.style" parent="@style/Theme.Sherlock">
+    <item name="android:background">#FF0000</item>
+   <item name="background">#FF0000</item>
+      <item name="android:textSize">15dip</item>
+   <item name="android:textColor">#FFB33E3E</item>
+</style>
+ -->
+
+<style name="Widget.app.ActionBar.TabBar" parent="Widget.AppCompat.ActionBar.TabBar">
+    <item name="android:background">#FFFFFF</item>
+   <!--  <item name="background">#FFFFFF</item> -->
+
+</style>
+
+<style name="AppTheme.ActionBar.TabText" parent="Widget.AppCompat.ActionBar.TabText">
+    <!-- This is a PURPLE text color when selected and a WHITE color otherwise -->
+   <item name="android:textColor">@color/actionbar_color_selector</item>
+    <!-- <item name="android:paddingLeft">4dip</item> -->
+</style>
+<!-- <style name="MyTheme" parent="@style/Theme.Sherlock.Light">
+    <item name="android:actionBarStyle">@style/MyActionBarStyle</item>
+    <item name="actionBarStyle">@style/MyActionBarStyle</item>
+</style>
+
+<style name="MyActionBarStyle" parent="@style/Widget.Sherlock.Light.ActionBar.Solid">
+    <item name="android:backgroundStacked">@drawable/my_stacked_background</item>
+    <item name="backgroundStacked">@drawable/my_stacked_background</item>
+</style> -->
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+</resources>

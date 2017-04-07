@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="fill_vertical"
+    android:background="#FFFFFF"
+    android:gravity="top"
+    android:scaleType="centerCrop"
+    android:splitMotionEvents="true"
+     >
+
+ <Button
+     android:id="@+id/button1"
+     style="@style/ButtonText"
+     android:layout_width="100dp"
+     android:layout_height="40dp"
+     android:layout_weight="1"
+     android:layout_alignParentBottom="true"
+     android:layout_alignParentLeft="true"
+     android:layout_alignParentStart="true"
+     android:layout_marginBottom="5dp"
+     android:layout_marginLeft="100dp"
+     android:layout_marginStart="5dp"
+     android:layout_marginTop="5dp"
+     android:background="#73C2FB"
+     android:text="@string/butt_signin_new"
+     android:textSize="16sp"
+     tools:ignore="HardcodedText" />
+
+
+
+ <ImageView
+     android:id="@+id/imageView1"
+     android:layout_width="fill_parent"
+     android:layout_height="fill_parent"
+     android:layout_above="@+id/button1"
+     android:layout_alignParentLeft="true"
+     android:layout_alignParentStart="true"
+     android:layout_alignParentTop="true"
+     android:background="@drawable/restaurant"
+     tools:ignore="ContentDescription" />
+
+ <TextView
+     android:id="@+id/textView2"
+     android:layout_width="wrap_content"
+     android:layout_height="wrap_content"
+     android:layout_alignBaseline="@+id/textView1"
+     android:layout_alignBottom="@+id/textView1"
+     android:layout_toEndOf="@+id/textView1"
+     android:layout_toRightOf="@+id/textView1"
+     android:text="Lite"
+     android:textColor="#BB0B0B"
+     android:textSize="16sp"
+     android:textStyle="italic"
+     android:typeface="serif"  
+     tools:ignore="HardcodedText" />
+
+ <TextView
+     android:id="@+id/textView3"
+     android:layout_width="wrap_content"
+     android:layout_height="wrap_content"
+     android:layout_below="@+id/textView2"
+     android:layout_centerHorizontal="true"
+     android:text="Rank. Share. Pick the best."
+     android:textColor="#FFFFFF"
+     android:textSize="15sp" 
+     
+      
+     android:typeface="normal"
+     tools:ignore="HardcodedText"  />
+
+ <TextView
+     android:id="@+id/textView1"
+     android:layout_width="wrap_content"
+     android:layout_height="wrap_content"
+     android:layout_alignParentTop="true"
+     android:layout_centerHorizontal="true"
+     android:layout_marginTop="53dp"
+     android:text="Rankit"
+     android:textColor="#ffffff"
+     android:textSize="35sp"
+     android:textStyle="bold|normal"
+     android:typeface="monospace"
+     tools:ignore="HardcodedText" />
+
+</RelativeLayout>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@color/feed_bg"
+    android:id="@+id/bottom_write_bar" >
+
+    <LinearLayout   
+        android:layout_width="wrap_content"
+    	android:layout_height="wrap_content"
+    	android:orientation="horizontal"  
+        android:layout_marginTop="10dip" 
+        android:layout_marginLeft="80dip" 
+        android:layout_gravity="center_horizontal"
+        android:id="@+id/load" > 	  
+  
+  		<ProgressBar
+        android:id="@+id/progressBar"
+        android:layout_width="30dip"
+    	android:layout_height="30dip"
+        android:layout_marginTop="1dip"/>
+
+        <TextView 
+        android:layout_marginTop="5dip"
+        android:layout_marginLeft="5dip"
+        android:id="@+id/TextView00" 
+        android:textSize="16sp"
+        android:text="@string/st_chargement" 
+        android:layout_width="wrap_content" 
+        android:layout_height="wrap_content"  
+        android:textColor="#fff"  
+     	android:layout_below="@id/progressBar"  /> 
+    </LinearLayout> 
+                                                
+        
+    
+    <ListView
+        android:id="@+id/listannonces"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true" 
+        android:divider="#ffffff" 
+        android:dividerHeight="1dp" />
+  
+</RelativeLayout>

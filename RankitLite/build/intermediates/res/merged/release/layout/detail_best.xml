@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="#ffffff"
+    android:gravity="center_vertical|center_horizontal"
+    android:layout_centerInParent="true"
+ 
+    >
+ 
+  <ScrollView  
+android:layout_width="fill_parent"
+android:layout_height="fill_parent"  >   
+<LinearLayout  
+    android:id="@+id/LinearLayout1"
+    android:layout_width="fill_parent" 
+    android:layout_height="fill_parent"
+    android:orientation="vertical"  
+    >
+      
+   <!--  <ImageView 
+    android:id="@+id/img_article"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:layout_margin="4dp"
+        style="@style/myImageView">
+</ImageView>  -->
+
+    	<com.load.img.FeedImageView
+                android:id="@+id/img_article"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+                android:scaleType="fitCenter"
+                android:layout_margin="4dp"
+                style="@style/myImageView"
+                 />
+<!--
+ <info.com.enews.FeedImageView
+        android:id="@+id/img_article"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop"
+        android:layout_margin="4dp"
+        style="@style/myImageView"
+            android:src="@drawable/ic_market" />  -->          
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:orientation="horizontal"  
+        android:layout_margin="4dp"
+        android:layout_gravity="bottom" 
+        android:background="#73C2FB">
+        
+       
+            <TextView
+        android:id="@+id/idInfoServices"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:paddingLeft="10dp"
+        android:paddingRight="10dp"
+        android:paddingTop="5dp"
+        android:paddingBottom="5dp" 
+        android:textColor="@android:color/white" 
+        android:layout_margin="4dp"
+        android:layout_weight="1"
+      
+       android:text="@string/infoDetailServices"   
+        />
+            
+            
+        
+            
+            
+    
+            
+   </LinearLayout> 
+   
+    
+      
+    
+ 
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"  
+        android:background="#FFFFFF" 
+        android:layout_margin="4dp"  >
+  
+             <ListView
+        android:id="@+id/modelePrecis"
+       android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true" 
+        
+       android:background="@drawable/border_listview"
+       >
+    </ListView>
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="3dp" >
+        
+     
+       <!--   <ListView
+        android:layout_marginTop="5dp"    
+        android:id="@+id/modelePrecis"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight="5"
+        android:dividerHeight="1dp"  
+    	android:background="@android:drawable/editbox_background" 			 
+        android:layout_centerInParent="true" 
+        android:layout_centerHorizontal="true" /> -->
+         
+        <!--     <com.android.volley.toolbox.NetworkImageView
+                android:id="@+id/img_profil"
+                android:layout_width="80dp"
+                android:layout_height="80dp"
+                android:scaleType="fitCenter"
+                android:src="@drawable/homme"  >
+            </com.android.volley.toolbox.NetworkImageView>
+ 
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingLeft="5dp"  >
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/Nom_prenom"
+		android:textSize="14sp" 
+        android:textColor="#fff"      
+        android:textStyle="bold" />
+    
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/date"
+		android:textSize="12sp" 
+        android:textColor="#fff"   />
+    
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/tel"
+		android:textSize="14sp" 
+        android:textColor="#fff"     
+        android:textStyle="bold"/>
+    </LinearLayout>
+     -->
+    
+    </LinearLayout>
+
+ 
+     <ProgressBar
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+                android:id="@+id/progress"
+                android:layout_gravity="center" /> 
+    
+           
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="5dp"    >
+  
+
+       
+   
+  
+        <Button
+        android:id="@+id/validation"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp" 
+        android:layout_marginTop="15dp"    
+        android:textSize="18sp"     
+        android:textStyle="bold"
+        android:text="@string/validerVote"  
+        android:textColor="@color/text_button" 
+        android:background="#73C2FB" 
+	   	android:layout_gravity="center" />
+  
+    </LinearLayout>
+        
+    </LinearLayout>
+ 
+</LinearLayout>
+ </ScrollView> 
+        
+ 
+       </FrameLayout>

@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+android:layout_width="fill_parent"
+android:layout_height="wrap_content"
+	android:background="#FFFFFF"  >
+	
+ <ScrollView 
+android:layout_width="fill_parent"
+android:layout_height="wrap_content"
+			        android:layout_centerInParent="true" 
+        			android:layout_centerHorizontal="true">
+    
+
+ <LinearLayout
+     android:layout_width="fill_parent"
+     android:layout_height="wrap_content"
+     android:layout_alignParentLeft="true"
+     android:layout_alignParentTop="true"
+     android:orientation="vertical"
+     android:padding="6dp" >
+
+     <LinearLayout
+         android:layout_width="fill_parent"
+         android:layout_height="wrap_content"
+         android:gravity="center"
+         android:orientation="horizontal" >
+
+         <LinearLayout
+             android:layout_width="fill_parent"
+             android:layout_height="wrap_content"
+             android:layout_weight="0.5"
+             android:background="#CCCCCC"
+             android:gravity="center_vertical|center_horizontal"
+             android:orientation="vertical"
+             android:textAlignment="center" >
+
+             <TextView
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:onClick="service"
+                 android:text="Rank"
+                 android:textColor="#73C2FB"
+                 android:textSize="36dp"
+                 android:textStyle="bold" />
+
+             <ImageView
+                 android:layout_width="110dp"
+                 android:layout_height="110dp"
+                 android:layout_weight="0"
+                 android:onClick="service"
+                 android:src="@drawable/services" />
+
+             <TextView
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:onClick="service"
+                 android:text="a Service"
+                 android:textColor="#73C2FB"
+                 android:textSize="24dp"
+                 android:textStyle="bold" />
+
+             <TextView
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:onClick="service"
+                 android:padding="16dp"
+                 android:text="Give your opinion about a service of your choice"
+                 android:textAlignment="gravity"
+                 android:textColor="#ffffff"
+                 android:textSize="14dp" />
+         </LinearLayout>
+
+         <LinearLayout
+             android:layout_width="fill_parent"
+             android:layout_height="wrap_content"
+             android:layout_marginLeft="5dp"
+             android:layout_weight="0.5"
+             android:background="#CCCCCC"
+             android:gravity="center_vertical|center_horizontal"
+             android:orientation="vertical" >
+
+             <TextView
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:onClick="product"
+                 android:text="Rank"
+                 android:textColor="#73C2FB"
+                 android:textSize="36dp"
+                 android:textStyle="bold" />
+
+             <ImageView
+                 android:layout_width="110dp"
+                 android:layout_height="110dp"
+                 android:layout_weight="0"
+                 android:onClick="product"
+                 android:src="@drawable/produit" />
+
+             <TextView
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:onClick="product"
+                 android:text="a Product"
+                 android:textColor="#73C2FB"
+                 android:textSize="24dp"
+                 android:textStyle="bold" />
+
+             <TextView
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:onClick="product"
+                 android:padding="16dp"
+                 android:text="Give your opinion about a service of your choice"
+                 android:textColor="#ffffff"
+                 android:textSize="14dp" />
+         </LinearLayout>
+     </LinearLayout>
+
+     <LinearLayout
+         android:layout_width="fill_parent"
+         android:layout_height="wrap_content"
+         android:layout_marginTop="5dp"
+         android:gravity="center"
+         android:orientation="horizontal" >
+
+         <LinearLayout
+             android:layout_width="fill_parent"
+             android:layout_height="wrap_content"
+             android:layout_weight="0.5"
+             android:background="#CCCCCC"
+             android:gravity="center_vertical|center_horizontal"
+             android:orientation="vertical" >
+
+             <TextView
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:onClick="best"
+                 android:text="Pick"
+                 android:textColor="#73C2FB"
+                 android:textSize="36dp"
+                 android:textStyle="bold" />
+
+             <ImageView
+                 android:layout_width="110dp"
+                 android:layout_height="110dp"
+                 android:layout_weight="0"
+                 android:onClick="best"
+                 android:src="@drawable/couronne_bleu" />
+
+             <TextView
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:onClick="best"
+                 android:text="The Best"
+                 android:textColor="#73C2FB"
+                 android:textSize="24dp"
+                 android:textStyle="bold" />
+
+             <TextView
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:onClick="best"
+                 android:text="Select the best Product/Service according to co-rankers"
+                 android:textAlignment="gravity"
+                 android:textColor="#ffffff"
+                 android:textSize="14dp" />
+         </LinearLayout>
+
+         <LinearLayout
+             android:layout_width="fill_parent"
+             android:layout_height="wrap_content"
+             android:layout_marginLeft="5dp"
+             android:layout_weight="0.5"
+             android:background="#CCCCCC"
+             android:gravity="center_vertical|center_horizontal"
+             android:orientation="vertical" >
+
+             <TextView
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:text="Invite"
+                 android:textColor="#73C2FB"
+                 android:textSize="36dp"
+                 android:textStyle="bold" />
+
+             <ImageView
+                 android:layout_width="110dp"
+                 android:layout_height="110dp"
+                 android:layout_weight="0"
+                 android:src="@drawable/ic_maps_directions_walk" />
+
+             <TextView
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:text="a Co-ranker"
+                 android:textColor="#73C2FB"
+                 android:textSize="24dp"
+                 android:textStyle="bold" />
+
+             <TextView
+                 android:layout_width="wrap_content"
+                 android:layout_height="wrap_content"
+                 android:text="Invite a friend o join you and improve the quality of products/ Services"
+                 android:textAlignment="gravity"
+                 android:textColor="#ffffff"
+                 android:textSize="14dp" />
+         </LinearLayout>
+     </LinearLayout>
+ </LinearLayout>
+ </ScrollView>
+       </RelativeLayout>
+ 
+ 

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/relativelay"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/bg_row"
+    android:orientation="vertical" >
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="3dp" >
+
+        <ImageView
+            android:id="@+id/emotion"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+            android:layout_alignParentTop="true"
+            android:src="@drawable/ic_angry"
+            />
+
+
+ 
+
+        
+
+     
+          
+        <TextView 
+            android:text="e-yamo"
+        android:id="@+id/tvStatut2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/tvname" 
+        android:layout_marginLeft="6dp" 
+        android:ellipsize="end"
+        android:maxLines="1" 
+        android:textColor="#00A99D"
+        android:textSize="11dp" />
+ 
+  
+
+
+
+
+    
+
+
+
+
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:uiOptions="splitActionBarWhenNarrow">
+    
+     <meta-data android:name="android.support.UI_OPTIONS"
+    android:value="splitActionBarWhenNarrow" />
+     
+    <item android:id="@+id/search"
+        android:icon="@drawable/ic_action_search_blanc"
+        android:showAsAction="ifRoom"
+        android:title="@string/Search"/>
+    
+   <!--  <item android:id="@+id/coranker"
+        android:icon="@drawable/ic_maps_directions_walk_blanc"
+        android:showAsAction="always"
+        android:title="@string/Friends"/> -->
+    
+   <!--  <item android:id="@+id/credits"
+        android:icon="@drawable/ic_action_redeem_blanc"
+        android:showAsAction="always"
+        android:title="@string/New"/>
+     -->
+    <item android:id="@+id/menu_status"
+        android:icon="@drawable/ic_navigation_more_vert"
+        android:showAsAction="ifRoom"
+        android:title="@string/Menu">
+      
+        </item>
+
+    
+    
+</menu>

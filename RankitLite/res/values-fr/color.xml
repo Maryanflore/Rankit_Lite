@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+     <color name="transparent">#000000</color>
+    <color name="tab_highlight">#CCCCCC</color>
+    <color name="bacground">#A5261C</color>
+    <color name="background_market">#00ff00</color>
+    <color name="bacgroundProfil">#A5261C</color>
+    <color name="bacgroundProject">#FFFFFF</color>
+    <color name="green">#006600</color>
+    <color name="list_item_title">#fff</color>
+    <color name="textLogin">#fff</color>
+    <color name="textEmail">#000</color>
+    <color name="list_background">#303030</color>
+    <color name="list_background_pressed">#992416</color>
+    <color name="list_divider">#272727</color>
+    <color name="counter_text_bg">#626262</color>
+    <color name="counter_text_color">#c5c4c4</color>
+    <color name="text_button">#fff</color>
+    <color name="EditText">#000000</color>
+    <color name="error">#FF0000</color>
+
+    <color name="edit1">#FFF</color>
+    
+    <!-- debut color list best service -->
+    <color name="genre">#666666</color>
+    <color name="year">#888888</color>
+   <!-- <color name="list_divider">#d9d9d9</color>-->
+    <color name="list_row_start_color">#ffffff</color>
+    <color name="list_row_end_color">#ffffff</color>
+    <color name="list_row_hover_start_color">#ebeef0</color>
+    <color name="list_row_hover_end_color">#ebeef0</color>
+    <!-- fin color list best service -->
+
+    <!-- epeeople --> 
+        <color name="white">#ffffff</color>
+    <color name="feed_bg">#d3d6db</color>
+    <color name="feed_item_bg">#ffffff</color>
+    <color name="feed_item_border">#c2c3c8</color>
+    <color name="link">#0a80d1</color>
+    <color name="timestamp">#a0a3a7</color>    
+   
+    <!--  -->
+    
+
+    <color name="blue">#ff2570ba</color>
+    <color name="grey">#f7f7f7</color>
+     
+	<color name="textColor">#000000</color>
+	<color name="textColor2">#FFFFFF</color>
+	<color name="textFieldColor">#000</color>
+	<color name="textFieldColorDate">#ffffff</color>
+	<color name="textShadow">#FFF</color>
+	<color name="listViewBg">#DADFEE</color>
+
+	<color name="sendLightColor">#8897BF</color>
+	<color name="sendMeduimColor">#5D6CA5</color>
+	<color name="sendDarkColor">#515F9F</color>
+
+	<color name="barDarkColor">#CECECE</color>
+	<color name="barMeduimColor">#DFDEE0</color>
+	<color name="barLightColor">#73C2FB</color>
+</resources>

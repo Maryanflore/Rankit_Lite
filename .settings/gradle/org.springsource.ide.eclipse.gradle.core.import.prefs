@@ -1,0 +1,9 @@
+#org.springsource.ide.eclipse.gradle.core.preferences.GradleImportPreferences
+#Wed Apr 27 10:45:52 WAT 2016
+addResourceFilters=false
+afterTasks=afterEclipseImport;
+beforeTasks=cleanEclipse;eclipse;
+enableAfterTasks=false
+enableBeforeTasks=false
+enableDependendencyManagement=true
+projects=android-support-v7-appcompat;RankitLite;

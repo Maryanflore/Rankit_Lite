@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+	   <item android:title="Edit"
+	      android:id="@+id/edit_item"
+	      android:icon="@drawable/intvited"
+	      android:showAsAction="ifRoom" >
+
+    </item>
+ <!--    <item android:id="@+id/itemSearch"
+    android:actionViewClass="android.widget.SearchView"
+    android:title="Rechercher..."
+	android:icon="@drawable/etalk_found"
+    android:showAsAction="ifRoom" /> -->
+</menu>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/servicesHome"
+            android:icon="@drawable/services"
+            android:title="@string/servicesName" />
+        <item
+            android:id="@+id/ProductHome"
+            android:icon="@drawable/product"
+            android:title="@string/productName" />
+        <item
+            android:id="@+id/CommunityHome"
+            android:icon="@drawable/coranker"
+            android:title="@string/home_grid_invite" />
+        <item
+            android:id="@+id/nav_discussion"
+            android:icon="@drawable/ic_forum"
+            android:title="@string/best_info" />
+    </group>
+
+    <item android:title="">
+        <menu>
+            <item
+                android:id="@+id/settingHome"
+                android:icon="@drawable/parametres"
+                android:title="@string/setting" />
+            <item
+                android:id="@+id/deconnexionHome"
+                android:icon="@drawable/deconnection"
+                android:title="@string/deconnexion" />
+        </menu>
+    </item>
+
+</menu>

@@ -1,0 +1,52 @@
+<resources  xmlns:tools="http://schemas.android.com/tools">
+    <dimen name="activity_horizontal_margin2" tools:ignore="UnusedResources">16dp</dimen>
+    <dimen name="activity_vertical_margin2" tools:ignore="UnusedResources">16dp</dimen>
+    <dimen name="customTitle">14sp</dimen>
+    <dimen name="customEntry">18sp</dimen>
+    <dimen name="sample_button_spacing">2dp</dimen>
+    <dimen name="headerTitle">20sp</dimen>
+    <dimen name="headerMarginVertical">16dp</dimen>
+    <dimen name="headerMarginStart">12dp</dimen>
+    <dimen name="cardMarginHorizontal">10dp</dimen>
+    <dimen name="cardMarginVertical">8dp</dimen>
+    <dimen name="item_margin">8dp</dimen>
+
+    <dimen name="toolbar_elevation">5dp</dimen>
+    <dimen name="fab_elevation">10dp</dimen>
+    <dimen name="card_elevation">2dp</dimen>
+    <!-- Preference fragment padding, bottom -->
+    <dimen name="preference_fragment_padding_bottom">0dp</dimen>
+    <!-- Preference fragment padding, sides -->
+    <dimen name="preference_fragment_padding_side">16dp</dimen>
+    <dimen name="sample_button_height">56dp</dimen>
+
+    <integer name="preference_fragment_scrollbarStyle">0x02000000</integer>
+    <!-- outsideOverlay -->
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">300dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    
+    
+     <dimen name="feed_item_margin">10dp</dimen>
+    <dimen name="feed_item_padding_top_bottom">10dp</dimen>
+    <dimen name="feed_item_padding_left_right">15dp</dimen>
+    <dimen name="feed_item_profile_pic">50dp</dimen>
+    <dimen name="feed_item_profile_info_padd">10dp</dimen>
+    <dimen name="feed_item_profile_name">15dp</dimen>
+    <dimen name="feed_item_timestamp">9dp</dimen>
+    <dimen name="feed_item_status_pad_left_right">10dp</dimen>
+    <dimen name="feed_item_status_pad_top">5dp</dimen>
+    <dimen name="feed_item_corner_radius">3dp</dimen>
+    <dimen name="feed_item_border_width">1dp</dimen>
+    
+        <dimen name="diameter">48dp</dimen>
+    <dimen name="elevation_low">1dp</dimen>
+    <dimen name="elevation_high">4dp</dimen>
+    <dimen name="add_button_margin">16dp</dimen>
+
+    <dimen name="title">17dp</dimen>
+    <dimen name="rating">15dip</dimen>
+    <dimen name="genre">13dip</dimen>
+    <dimen name="year">12dip</dimen>
+
+</resources>

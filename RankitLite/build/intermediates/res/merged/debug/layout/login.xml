@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <ImageView
+        android:id="@+id/imageView1"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:alpha="0.6"
+        android:background="@drawable/restaurant"
+        />
+
+    <RelativeLayout
+        android:id="@+id/relativeLayout1"
+        android:layout_width="180dp"
+        android:layout_height="80dp"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:alpha="0.7"
+        android:background="@drawable/back"
+        >
+
+        <TextView
+            android:id="@+id/textView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignBaseline="@+id/textView1"
+            android:layout_alignBottom="@+id/textView1"
+            android:layout_toEndOf="@+id/textView1"
+            android:layout_toRightOf="@+id/textView1"
+            android:text=" Lite"
+            android:textColor="#BB0B0B"
+            android:textSize="18sp"
+            android:textStyle="italic|bold"
+            android:typeface="serif"
+            />
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginLeft="42dp"
+            android:layout_marginStart="42dp"
+            android:layout_marginTop="23dp"
+            android:text="Rankit"
+            android:textColor="#ffffff"
+            android:textSize="22sp"
+            android:textStyle="bold"
+            android:typeface="sans"
+             />
+
+        <TextView
+            android:id="@+id/textView3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/textView1"
+            android:layout_centerHorizontal="true"
+            android:text="Rank. Share. Pick the best"
+            android:textColor="#ffffff"
+            android:textSize="12sp"
+            android:textStyle="bold"
+            />
+    </RelativeLayout>
+
+    <Button
+        android:id="@+id/Button03"
+        android:layout_width="250dp"
+        android:layout_height="40dp"
+
+        android:layout_alignLeft="@+id/Button02"
+        android:layout_alignRight="@+id/Button02"
+        android:layout_alignStart="@+id/Button02"
+        android:layout_below="@+id/Button02"
+        android:alpha="0.8"
+        android:background="@drawable/back_facebook"
+        android:drawableLeft="@drawable/ic_face"
+        android:drawableStart="@drawable/ic_face"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:text="Sign in with Facebook"
+        android:textColor="#ffffff"
+        android:textSize="13sp"
+         />
+
+    <Button
+        android:id="@+id/Button02"
+        android:layout_width="250dp"
+        android:layout_height="40dp"
+        android:layout_below="@+id/relativeLayout1"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="62dp"
+        android:alpha="0.8"
+        android:background="@drawable/back_google"
+        android:drawableLeft="@drawable/ic_google"
+        android:drawableStart="@drawable/ic_google"
+        android:paddingLeft="20dp"
+        android:paddingRight="20dp"
+        android:text="Sign in with Google+"
+        android:textColor="#ffffff"
+        android:textSize="13sp"
+       />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/Button03"
+        android:layout_alignLeft="@+id/Button03"
+        android:layout_alignRight="@+id/Button03"
+        android:layout_alignStart="@+id/Button03"
+        android:layout_below="@+id/Button03"
+        android:layout_marginTop="14dp"
+        android:gravity="center_vertical|center_horizontal"
+        android:text="Rankit will not post anything to your account unless requested by you."
+        android:textAppearance="?android:attr/textAppearanceLarge"
+        android:textColor="#ffffff"
+        android:textSize="13sp"
+         />
+
+    <RelativeLayout
+        android:id="@+id/relativeLayout2"
+        android:layout_width="match_parent"
+        android:layout_height="41dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+      >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+        <Button
+            android:id="@+id/Button01"
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="0dp"
+            android:layout_weight="0.4975"
+            android:layout_height="40dp"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentTop="true"
+            android:background="@drawable/back_sign"
+            android:text="Create new account"
+            android:textColor="#73c2fb"
+            android:alpha=".9"
+            android:textSize="13sp"
+             />
+            <Button
+
+
+                android:layout_width="0dp"
+                android:layout_weight="0.005"
+                android:layout_height="40dp"
+                android:layout_alignParentBottom="true"
+                android:layout_alignParentLeft="true"
+                android:layout_alignParentTop="true"
+               android:background="#000"
+                android:alpha=".10"
+                android:textSize="13sp"
+                />
+        <Button
+            android:id="@+id/button1"
+            style="?android:attr/buttonStyleSmall"
+            android:layout_width="0dp"
+            android:layout_weight="0.4975"
+            android:layout_height="40dp"
+            android:alpha=".9"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:background="@drawable/back_sign"
+            android:text="Sign in"
+            android:textColor="#73c2fb"
+            android:textSize="13sp"
+            />
+</LinearLayout>
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="2dp"
+        android:layout_above="@+id/relativeLayout2"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:background="#73c2fb"
+         >
+
+    </RelativeLayout>
+
+</RelativeLayout>

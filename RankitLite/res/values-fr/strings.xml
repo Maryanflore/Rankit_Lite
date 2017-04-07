@@ -1,0 +1,384 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+	<!-- Application -->
+	<string name="app_name">RankitLite</string>
+	<string name="facebook_app_id">713360028712814</string>
+	
+	<!-- Menu -->
+	<string name="lng">Changer la langue</string>
+	<string name="drawer_open">Ouvrir</string>
+	<string name="drawer_close">Fermer</string>
+    <string name="About">A propos</string>
+    <string name="Terms">Termes</string>
+    <string name="dialog_mes">Rate the quality of a service and/or the quality of a product ? This is now possible through RankIt!, do it in privacy and in a single click !</string>
+    
+    <!-- Menu Services  -->
+    <string name="ServicesFavorite">Favoris</string>
+    <string name="ServicesNew">Nouveaux</string>
+    <string name="ServicesSugestion">Suggestions</string>
+    <string name="ServicesAll">Tout</string>
+    <string name="Services_par_secteur">Rechercher par secteur</string>
+    <string name="Services_par_autre">Autre recherche</string>
+    
+    <!-- Activity_Main -->
+    <string name="butt_signin">Se Connecter</string>
+    <string name="butt_signup">S\'inscrire</string>
+
+       
+
+     <!-- Activity_SignIn -->
+	<string name="Titlebar1">Connexion</string>
+	<string name="Titlebar_condiction">Connexion</string>
+	<string name="Welcome1">Bienvenue dans la communauté des rankers</string>
+	<string name="User_pseudo">Pseudo</string>
+	<string name="User_password">Mot de passe</string>
+	<string name="Headtext">Connectez-vous à votre compte</string>
+	<string name="forget_password">Mot de passe oublié ?</string>
+	 <string name="st_remember">Rester connecté</string> 
+	 <string name="st_chargement">Chargement</string>
+	 <string name="st_cond_utilisation1">By clicking this button I have read and accepted </string>
+	 <string name="st_cond_utilisation2"><a href="http://www.therankit.com"> En cliquant sur ce bouton j\'ai lu et accepté les termes et conditions d\'utilisation de Rankit!™</a></string>
+	 
+	 
+	 	<!-- Activity_Contry -->
+	 <string name="show_dialog">Show Dialog</string>
+	 
+	<!-- Activity_SignUp -->
+	<string name="Titlebar2">Inscription</string>
+	<string name="Welcome2">S\'inscrire et devenir un Ranker</string>
+	<string name="user_repeat_pass">Répéter le mot de passe</string>
+	<string name="user_email_address">Addresse email</string>
+	<string name="hint_pseudo">Pseudo</string>
+	<string name="hint_password">au moins 6 caractères</string>
+	<string name="hint_repeat_pass">Répéter le mot de passe</string>
+	<string name="hint_email">Email</string>
+	<string name="user_show_pass">montrer le mot de passe</string>
+	<string name="terms_and_cond">Termes et conditions</string>
+	<string name="link_certified">En cliquant sur ce bouton je certifie avoir lu et accepté les termes et conditions d\'utilisation de Rankit! </string>
+	<string name="st_profil">Image</string>
+	 <string name="st_nom">Nom</string>
+    <string name="st_prenom">Prénom</string> 
+    <string name="st_mail">E-mail</string> 
+	<string name="genrfocus_login">Désolé, ce nom d\'utilisateur existe déja</string> 
+    <string name="st_dialog_insert_login_ok">Nom d\'utilisateur valide.</string>
+    <string name="st_pwd_repeat">Confirmer le mot de passe</string>
+    <string name="st_toast_error_2Pwd">Les mots de passe ne sont pas identiques.</string>
+    <string name="st_dialog_createCompt">Création du compte en cours...</string>
+	<string name="pictureTitle">Ajouter une image</string>  
+	<string name="pictureChoice1">Prendre une photo</string>  
+    <string name="pictureChoice2">Gallerie photos</string>  
+    <string name="pictureChoice3">Annuler</string> 
+    <string name="valideLogin">Validé !</string>
+    <string name="propositionLogin">est déja utilisé . Veuillez changer svp !</string> 
+    <string name="infopropositionLogin">Veuillez choisir un autre nom d\'utilisateur !</string>
+    
+    
+	 <!-- definition des erreurs -->
+    <string name="st_error"></string> 
+     <string name="st_toast_error">Veuillez remplir tous les champs</string>
+    <string name="st_toast_error_connection">Vérifier votre connexion internet!</string> 
+    <string name="st_toast_error_authentification">Nom d\'utilisateur ou mot de passe incorrect !</string>   
+    <string name="st_connection_failled">Pas de connexion, veuillez réessayer!</string>  
+	
+	<!-- Activity_Choice -->
+	<string name="Hello">Bonjour, </string>
+	<string name="Location">Je suis ici :</string>
+	<string name="Friends">  Co-rankers</string>
+	<string name="Product">Produit</string>
+	<string name="Service">Service</string>
+	<string name="Butt_invite">Ajouter des amis</string>
+	 
+	
+	<!-- onBackPressed Alert Dialog -->
+	<string name="info_quit">Êtes-vous sur de vouloir quitter l\'application ? </string>
+	<string name="info_quit_noteS">Quitter sans donner votre avis sur cette entreprise ? </string>
+	<string name="info_oui">Oui</string>
+	<string name="info_non">Non</string>
+	
+	<string-array name="country">
+<item>Choisir votre pays</item>
+<item>Afghanistan</item>
+<item>Afrique du Sud</item>
+<item>Albanie</item>
+<item>Algerie</item>
+<item>Allemagne</item>
+<item>Andorre</item>
+<item>Angleterre</item>
+<item>Angola</item>
+<item>Arabie Saoudite</item>
+<item>Argentine</item>
+<item>Armenie</item>
+<item>Antigua-et-Barbuda</item>
+<item>Australie</item>
+<item>Autriche</item>
+<item>Azerbaïdjan</item>
+<item>Bahamas</item>
+<item>Bahreïn</item>
+<item>Bangladesh</item>
+<item>Barbade</item>
+<item>Belgique</item>
+<item>Belize</item>
+<item>Bénin</item>
+<item>Bhoutan</item>
+<item>Bielorussie</item>
+<item>Birmanie</item>
+<item>Bolivie</item>
+<item>Bosnie-Herzégovine</item>
+<item>Botswana</item>
+<item>Bresil</item>
+<item>Brunei</item>
+<item>Bulgarie</item>
+<item>Burkina Faso</item>
+<item>Burundi</item>
+<item>Cambodge</item>
+<item>Cameroun</item>
+<item>Canada</item>
+<item>Cap-Vert</item>
+<item>Chili</item>
+<item>Chine</item>
+<item>Chypre</item>
+<item>Colombie</item>
+<item>Comores</item>
+<item>Congo</item>
+<item>Coree du Nord</item>
+<item>Coree du Sud</item>
+<item>Costa Rica</item>
+<item>Cote d\'Ivoire</item>
+<item>Croatie</item>
+<item>Cuba</item>
+<item>Danemark</item>
+<item>Djibouti</item>
+<item>Dominique</item>
+<item>Ecosse</item>
+<item>Egypte</item>
+<item>Emirats Arabes Unis</item>
+<item>Equateur</item>
+<item>Erythree</item>
+<item>Espagne</item>
+<item>Estonie</item>
+<item>Etats-Unis</item>
+<item>Ethiopie</item>
+<item>Fidji</item>
+<item>Finlande</item>
+<item>France</item>
+<item>Gabon</item>
+<item>Gambie</item>
+<item>Georgie</item>
+<item>Ghana</item>
+<item>Grece</item>
+<item>Grenade</item>
+<item>Guatemala</item>
+<item>Guinee</item>
+<item>Guinee Equatoriale</item>
+<item>Guinee-Bissau</item>
+<item>Guyana</item>
+<item>Haiti</item>
+<item>Honduras</item>
+<item>Hongrie</item>
+<item>Ile Maurice</item>
+<item>Inde</item>
+<item>Indonésie</item>
+<item>Irak</item>
+<item>Iran</item>
+<item>Irlande</item>
+<item>Irlande du Nord</item>
+<item>Islande</item>
+<item>Israel</item>
+<item>Italie</item>
+<item>Jamaique</item>
+<item>Japon</item>
+<item>Jordanie</item>
+<item>Kazakhstan</item>
+<item>Kenya</item>
+<item>Kirghizistan</item>
+<item>Kiribati</item>
+<item>Kosovo</item>
+<item>Koweit</item>
+<item>Laos</item>
+<item>Lesotho</item>
+<item>Lettonie</item>
+<item>Liban</item>
+<item>Liberia</item>
+<item>Libye</item>
+<item>Liechtenstein</item>
+<item>Lituanie</item>
+<item>Luxembourg</item>
+<item>Macedoine</item>
+<item>Madagascar</item>
+<item>Malaisie</item>
+<item>Malawi</item>
+<item>Maldives</item>
+<item>Mali</item>
+<item>Malte</item>
+<item>Maroc</item>
+<item>Marshall</item>
+<item>Mauritanie</item>
+<item>Mexique</item>
+<item>Micronesie</item>
+<item>Moldavie</item>
+<item>Monaco</item>
+<item>Mongolie</item>
+<item>Montenegro</item>
+<item>Mozambique</item>
+<item>Namibie</item>
+<item>Nauru</item>
+<item>Nepal</item>
+<item>Nicaragua</item>
+<item>Niger</item>
+<item>Nigeria</item>
+<item>Norvege</item>
+<item>Nouvelle-Zelande</item>
+<item>Oman</item>
+<item>Ouganda</item>
+<item>Ouzbekistan</item>
+<item>Pakistan</item>
+<item>Palaos</item>
+<item>Panama</item>
+<item>Papouasie-Nouvelle-Guinee</item>
+<item>Paraguay</item>
+<item>Pays de Galles</item>
+<item>Pays-Bas</item>
+<item>Perou</item>
+<item>Philippines</item>
+<item>Pologne</item>
+<item>Portugal</item>
+<item>Qatar</item>
+<item>Republique Centrafricaine</item>
+<item>Republique Democratique du Congo</item>
+<item>Republique Dominicaine</item>
+<item>Republique Tcheque</item>
+<item>Roumanie</item>
+<item>Russie</item>
+<item>Rwanda</item>
+<item>Sainte-Lucie</item>
+<item>Saint-Kitts-et-Nevis</item>
+<item>Saint-Marin</item>
+<item>Saint-Vincent-et-les-Grenadines</item>
+<item>Salomon</item>
+<item>Salvador</item>
+<item>Samoa</item>
+<item>Sao Tome et Principe</item>
+<item>Senegal</item>
+<item>Serbie</item>
+<item>Seychelles</item>
+<item>Sierra Leone</item>
+<item>Singapour</item>
+<item>Slovaquie</item>
+<item>Slovenie</item>
+<item>Somalie</item>
+<item>Soudan</item>
+<item>Sri Lanka</item>
+<item>Suede</item>
+<item>Suisse</item>
+<item>Suriname</item>
+<item>Swaziland</item>
+<item>Syrie</item>
+<item>Tadjikistan</item>
+<item>Taiwan</item>
+<item>Tanzanie</item>
+<item>Tchad</item>
+<item>Thailande</item>
+<item>Timor-Oriental</item>
+<item>Togo</item>
+<item>Tonga</item>
+<item>Trinite-et-Tobago</item>
+<item>Tunisie</item>
+<item>Turkmenistan</item>
+<item>Turquie</item>
+<item>Tuvalu</item>
+<item>Ukraine</item>
+<item>Uruguay</item>
+<item>Vanuatu</item>
+<item>Vatican</item>
+<item>Venezuela</item>
+<item>Viet Nam</item>
+<item>Yemen</item>
+<item>Zambie</item>
+<item>Zimbabwe</item>
+</string-array>
+	
+	<!-- Activity_ServiceActivite -->
+	<string name="Favorites">Favoris</string>
+	<string name="Search">Rechercher</string>
+	<string name="Menu">Menu</string>
+	<string name="All">Tout</string>
+	<string name="New">Nouveaux</string>
+	<string name="Suggestions">Suggestions</string>
+	<string name="msg_error_vote">Désolé, vous ne pouvez voter cette entreprise deux fois durant la même journée</string>
+	<string name="like">Vous aimez !</string>
+	<string name="like2">Il/Elle a aimé cette entreprise</string>
+	<string name="likenot">Vous  n\'aimez pas !</string>
+	<string name="likenot2">Il/Elle n\'a pas aimé cette entreprise</string>
+	<string name="title_dialog_send_msg">Laissez un Commentaire</string>
+	
+	<!-- Activity_detailMarket -->	
+	<string name="infoServices">Donnez votre opinion à propos de :</string>
+	<string name="infoDetailServices">Détail Classement</string>
+	<string name="validerVote">Rank</string>
+	<string name="boutonMsg">Partager</string>
+	<string name="msg_after_vote">Merci d\'avoir donné votre avis</string>
+	<string name="msg_dialog_opinion">Partagez-vous son avis ?</string>
+	<string name="rapel">Pas maintenant</string>
+	
+	<!-- Activity_MainActivity_Menu -->	
+	<string name="best">Pick the best</string>
+	<string name="bestDetail">Choix des Consommateurs</string>
+	<string name="servicesName">Services</string>
+	<string name="servicesDetail">Ranker et partager mon opinion</string>
+	<string name="productName">Produits</string>
+	<string name="productDetail">Ranker et partager mon opinion</string>
+	<string name="setting">Paramètres</string>
+	<string name="deconnexion">Déconnexion</string>
+	
+	
+	<!-- Activity_HomeGrid -->
+	<string name="bienvenu">Bienvenue</string>
+	<string name="detail">Elements</string>
+	<string name="home_grid_service">un service</string>
+	<string name="home_grid_product">un produit</string>
+	<string name="home_grid_the_best">the best</string>
+	<string name="home_grid_invite">Rejoindre</string>
+	<string name="home_grid_co_ranker">la Communauté</string>
+	<string name="md_choose_label">Choisir</string>
+	<string name="info_resultat">Aucun résultat</string>
+	<string name="info_etude">"L'étude de marché n'existe pas pour cette annonce"</string>
+	<string name="vote_avis">Vous avez deja donné votre avis</string>
+	<string name="alertVote">Veuillez donner votre avis sur au moins un critére</string>
+
+	<!-- Onglet Services -->
+	<string name="onglet_all">Tout</string>
+	<string name="onglet_nouv">Nouveautés</string>
+	<string name="onglet_class">Classement</string>
+	<string name="info_recher">Aucun résultat trouvé, pour le moment</string>
+	<string name="info_sector">Les Secteurs D\'activités</string>
+	<string name="info_sector2">"Les Secteurs D\'activités"</string>
+	<string name="add_fav">Ajouter Favoris</string>
+	<string name="best_info">Meilleure information</string>
+
+
+	<!-- DROIT CONSOMMATEUR -->
+
+	<string name="dr1">Le consommateur  a le droit d\'être traité avec respect</string>
+	<string name="dr2">Le consommateur  a le droit d\'être entendu</string>
+	<string name="dr3">Le consommateur a droit à la satisfaction des besoins essentiels</string>
+	<string name="dr4">Le consommateur a droit à la securité</string>
+
+	<!-- DEVOIR CONSOMMATEUR -->
+	<string name="dvr1">Le consommateur a le devoir d\'être averti,prêt à s\'informer</string>
+	<string name="dvr2">Le consommateur a le devoir d\'être solidaire pour avoir la force de faire respecter les droits de tous les consommateurs</string>
+	<string name="dvr3">Le consommateur a le devoir d\'être actif,decidé à se defendre lorsque  sa cause est juste</string>
+	<string name="dvr4">Le consommateur a le devoir d\'être socialement responsable ,conscient de l\'influence  que son comportement peut avoir sur les autres citoyens</string>
+
+	<!-- DEVOIR CONSOMMATEUR INFORMATION -->
+	<string name="info_devoir_conso">Il existe une réglementation internationale en matiére de protection des consommateurs qu\'encadrent  les lignes directives  des Nations Unies pour la protection du consommateur de la conférence des Nations Unies sur le commerce et le Développement(CNUCED).
+
+Pour plus d\'infos,vous raprocher de l\'oragnisme en charge de la protection consommateurs de votre pays.</string>
+
+	<string name="info_publication_plainte">Votre requête est privée (ie. elle ne sera pas publiée sur Rankit). Elle est automatiquement transmise à l\'organisme de protection des droits des consommateurs de votre pays de resistance.</string>
+	<string name="info_welcomme">Bienvenu(e)</string>
+	<string name="info_migrate">Cher Consommateur, migrez vers Ranker</string>
+	<string name="info_voice">et rendre votre voix plus forte</string>
+	<string name="info_create_account">Créer un compte</string>
+
+</resources>

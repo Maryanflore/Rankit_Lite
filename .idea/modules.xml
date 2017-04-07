@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/CountryPicker/CountryPicker.iml" filepath="$PROJECT_DIR$/CountryPicker/CountryPicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Rankit.iml" filepath="$PROJECT_DIR$/Rankit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/RankitLite/RankitLite.iml" filepath="$PROJECT_DIR$/RankitLite/RankitLite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/commons/commons.iml" filepath="$PROJECT_DIR$/commons/commons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/core/core.iml" filepath="$PROJECT_DIR$/core/core.iml" />
+    </modules>
+  </component>
+</project>

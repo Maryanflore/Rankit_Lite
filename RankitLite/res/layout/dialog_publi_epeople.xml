@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" 
+    android:background="@color/feed_bg" >
+  <ScrollView  
+android:layout_width="match_parent"
+android:layout_height="match_parent"  > 
+
+      
+         		<LinearLayout   
+           		   android:layout_width="fill_parent"
+    			   android:layout_height="fill_parent"
+    			   android:orientation="vertical"   
+        		   android:layout_centerHorizontal="true"
+    				android:padding="10dip"   >
+    				
+  <FrameLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+        android:layout_margin="5dp"
+        android:layout_marginLeft="@dimen/feed_item_margin"
+        android:layout_marginRight="@dimen/feed_item_margin"
+        android:layout_marginTop="@dimen/feed_item_margin"
+        android:background="@drawable/bg_parent_rounded_corner" 
+        >      
+              <com.e_market.SquareImageView
+        android:id="@+id/picture"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scaleType="centerCrop" 
+        style="@style/myImageView2"
+        android:src="@drawable/icone_ajout"
+        />
+          <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"   
+        android:padding="3dp"
+        android:gravity="center"
+        android:orientation="horizontal" 
+        android:layout_gravity="bottom" 
+        android:background="#55000000">
+        
+     	    	  <TextView
+	         android:layout_width="wrap_content"
+	         android:layout_height="wrap_content"
+	         android:textSize="12dp"
+       		 android:textColor="#fff"  
+        	 android:text="Publier avec une photos" 
+             android:textAppearance="?android:attr/textAppearanceMedium"
+            /> 
+            <ImageView
+            android:id="@+id/pictureButon"
+            android:layout_width="40dp"
+            android:layout_height="40dp" 
+            android:src="@drawable/photos" /> 
+          </LinearLayout>
+ </FrameLayout>
+ 
+  <EditText 
+        android:layout_marginTop="5dp" 
+        android:id="@+id/publication"
+		android:layout_width="fill_parent"
+		android:layout_height="100dp" 
+		android:textSize="18sp" 
+        android:hint="Quoi de neuf ?"   
+        android:textColor="@color/EditText"  
+        android:background="@android:drawable/editbox_background"
+/>
+    
+     <LinearLayout
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical" 
+	android:layout_gravity="right"  
+    android:padding="10dip"
+    >
+ 
+           <Button
+        android:id="@+id/publierButon"
+        android:layout_width="fill_parent"
+        android:layout_height="50dp"     
+        android:textSize="20sp"
+        android:text="@string/st_button_enregistrer"  
+        android:textColor="@color/text_button" 
+        android:background="#F15A24" 
+	   	android:layout_gravity="right"
+	         android:textStyle="bold" />
+               
+</LinearLayout>
+</LinearLayout>
+         </ScrollView>		    
+</LinearLayout> 

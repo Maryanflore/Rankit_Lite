@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" 
+    android:uiOptions="splitActionBarWhenNarrow">
+    
+    <meta-data android:name="android.support.UI_OPTIONS"
+    android:value="splitActionBarWhenNarrow" />
+
+    <meta-data android:name="android.support.PARENT_ACTIVITY"
+    android:value="com.therankit.home" />
+    
+    <item
+        android:id="@+id/button1"       
+        android:title="Create new account"
+        android:icon="@android:drawable/btn_minus"
+        android:orderInCategory="0"
+        android:showAsAction="always|withText"
+        
+        />
+    
+    <item
+        android:id="@+id/button2"
+        android:title="Sign in"
+        android:icon="@android:drawable/btn_plus"
+        android:orderInCategory="0"
+        android:showAsAction="always|withText"
+        >
+    </item>
+    
+
+</menu>

@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\menu\\login_menu.xml",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\menu\\login_menu.xml"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\menu\\main2.xml",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\menu\\main2.xml"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\menu\\menu_services.xml",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\menu\\menu_services.xml"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\menu\\main.xml",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\menu\\main.xml"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\menu\\menu_invited.xml",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\menu\\menu_invited.xml"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\menu\\menu.xml",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\menu\\menu.xml"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\menu\\menu_album.xml",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\menu\\menu_album.xml"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\menu\\navigation_view_elements.xml",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\menu\\navigation_view_elements.xml"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\menu\\menu_acheter.xml",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\menu\\menu_acheter.xml"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\menu\\menu_info.xml",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\menu\\menu_info.xml"
+    }
+]

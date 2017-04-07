@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:background="@drawable/background" >
+
+    <LinearLayout
+        android:id="@+id/linearLayout1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="10dp" >
+
+        <!--
+        <ImageView    
+        android:id="@+id/thumbImage" 
+        android:layout_marginTop="5dip"
+	        android:layout_width="wrap_content"
+	        android:layout_height="wrap_content"
+        android:src="@drawable/ic_launcher" 
+        android:layout_gravity="center_horizontal"  />
+        -->
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/Headtext"
+            android:textColor="#000000"
+            android:textSize="20sp" />
+
+        <EditText
+            android:id="@+id/login"
+            android:layout_width="fill_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="40dp"
+            android:hint="@string/User_pseudo"
+            android:textColor="@color/EditText"
+            android:textColorHint="#848484"
+            android:textSize="16sp"
+            tools:ignore="RtlHardcoded,RtlSymmetry" >
+
+            <requestFocus />
+        </EditText>
+
+        <EditText
+            android:id="@+id/password"
+            android:layout_width="fill_parent"
+            android:layout_height="40dp"
+            android:layout_marginTop="20dp"
+            android:hint="@string/User_password"
+            android:inputType="textPassword"
+            android:textColor="@color/EditText"
+            android:textColorHint="#848484"
+            android:textSize="16sp"
+            tools:ignore="RtlHardcoded,RtlSymmetry" >
+        </EditText>
+
+        <Button
+            android:id="@+id/connectionButon"
+            android:layout_width="fill_parent"
+            android:layout_height="50dp"
+            android:layout_gravity="center"
+            android:layout_marginTop="15dp"
+            android:background="#73C2FB"
+            android:text="@string/Titlebar_condiction"
+            android:textColor="@color/text_button"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:padding="10dp" >
+
+            <TextView
+                android:id="@+id/lien_condiction"
+                android:layout_width="288dp"
+                android:layout_height="match_parent"
+                android:layout_below="@+id/imgCredits"
+                android:layout_weight="1.29"
+                android:clickable="true"
+                android:gravity="center_vertical|center_horizontal"
+                android:text="@string/st_cond_utilisation2"
+                android:textAlignment="gravity"
+                android:textSize="12sp"
+                tools:ignore="UnusedAttribute,ObsoleteLayoutParam,InefficientWeight" />
+
+        </LinearLayout>
+
+        <FrameLayout
+            android:layout_width="fill_parent"
+            android:layout_height="match_parent"
+            tools:ignore="UselessLeaf" >
+
+            <!--
+         <com.image.upload.SquareImageView 
+        android:layout_margin="4dp"
+        style="@style/myImageView2"
+	    android:layout_width="60dp"
+	    android:layout_height="60dp"
+        android:src="@drawable/logo_app" 
+        />
+            -->
+
+        </FrameLayout>
+
+        <CheckBox
+            android:id="@+id/remember"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginLeft="20dp"
+            android:layout_weight="1.29"
+            android:button="@drawable/custom_checkbox_design"
+            android:paddingLeft="5dp"
+            android:text="@string/st_remember"
+            android:textColor="#000000"
+            tools:ignore="InefficientWeight,RtlSymmetry,RtlHardcoded" />
+
+    </LinearLayout>
+
+    <!--
+            <TextView
+           android:id="@+id/titre"
+           android:layout_width="fill_parent"
+           android:layout_height="match_parent"
+           android:layout_weight="1"
+           android:textAlignment="gravity"
+           android:paddingTop="5dp"
+           android:layout_alignParentBottom="true"
+           android:text="Copyright © 2015 NewFrame,Inc."
+           android:textColor="#000"
+           android:textSize="12sp" />
+    -->
+
+</RelativeLayout>

@@ -1,0 +1,574 @@
+[
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\slide1.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\slide1.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\coranker.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\coranker.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\tab_unselected_rankitlite.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\tab_unselected_rankitlite.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\spinner_ab_disabled_rankitlite.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\spinner_ab_disabled_rankitlite.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_happy.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\ic_happy.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\back_down.PNG",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\back_down.PNG"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_jaime_pas.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\ic_jaime_pas.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\progress_secondary_rankitlite.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\progress_secondary_rankitlite.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_image_wb_incandescent.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\ic_image_wb_incandescent.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-xhdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_action_alarm.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\ic_action_alarm.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\all.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\all.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-xhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_content_create.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\ic_content_create.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\cab_background_bottom_rankitlite.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\cab_background_bottom_rankitlite.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_discuss.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\ic_discuss.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\place_white.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\place_white.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_create.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\ic_create.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\button_next.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\button_next.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ab_bottom_solid_rankitlite.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\ab_bottom_solid_rankitlite.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\progress_primary_rankitlite.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\progress_primary_rankitlite.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_navigation_arrow_drop_down.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\ic_navigation_arrow_drop_down.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_action_trending_down.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\ic_action_trending_down.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_event.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\ic_event.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_star_half_black_36dp.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\spinner_ab_default_rankitlite.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\spinner_ab_default_rankitlite.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_done.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\ic_done.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\list_pressed_rankitlite.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\list_pressed_rankitlite.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_action_list.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\ic_action_list.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\thebest.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\thebest.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\btn_cab_done_focused_rankitlite.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\btn_cab_done_focused_rankitlite.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\tab_unselected_focused_rankitlite.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\tab_unselected_focused_rankitlite.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_navigation_more_vert.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\ic_navigation_more_vert.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\search.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\search.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_walk.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\ic_walk.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\home.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\home.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\filtre_secteur.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\filtre_secteur.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_google.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\ic_google.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_communication_call.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\ic_communication_call.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\progress_bg_rankitlite.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\progress_bg_rankitlite.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_dashboard.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\ic_dashboard.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ab_stacked_solid_rankitlite.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\ab_stacked_solid_rankitlite.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\products.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\products.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\white_product.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\white_product.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\white_service.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\white_service.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\white_coranker.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\white_coranker.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_slide2.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\ic_slide2.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_action_thumb_down.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\ic_action_thumb_down.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ab_solid_rankitlite.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\ab_solid_rankitlite.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_tab_call.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\ic_tab_call.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_menu.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\ic_menu.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\services.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\services.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\market.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\market.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_face.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\ic_face.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\btn_cab_done_default_rankitlite.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\btn_cab_done_default_rankitlite.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_action_thumb_up.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\ic_action_thumb_up.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\spinner_ab_focused_rankitlite.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\spinner_ab_focused_rankitlite.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_social_location_city.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\ic_social_location_city.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_angry.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\ic_angry.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\tab_unselected_pressed_rankitlite.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\tab_unselected_pressed_rankitlite.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_launcher.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-xhdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\new_anonce.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\new_anonce.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_editor_mode_comment.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\ic_editor_mode_comment.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_action_wallet_giftcard.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\ic_action_wallet_giftcard.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_services.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\ic_services.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_action_thumbs_up_down.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\ic_action_thumbs_up_down.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\like.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\like.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_action_redeem.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\ic_action_redeem.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\tab_selected_focused_rankitlite.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\tab_selected_focused_rankitlite.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_navigation_arrow_drop_up.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\ic_navigation_arrow_drop_up.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\cab_background_top_rankitlite.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\cab_background_top_rankitlite.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_action_delete.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\ic_action_delete.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_slide3.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\ic_slide3.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_maps_pin_drop.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\ic_maps_pin_drop.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_commentaire.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\ic_commentaire.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_twitter.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\ic_twitter.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_coranker.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\ic_coranker.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_av_new_releases.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\ic_av_new_releases.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_forum.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\ic_forum.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\service.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\service.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\menu_dropdown_panel_rankitlite.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\menu_dropdown_panel_rankitlite.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_action_favorite.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\ic_action_favorite.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\white_best.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\white_best.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\btn_cab_done_pressed_rankitlite.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\btn_cab_done_pressed_rankitlite.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\spinner_ab_pressed_rankitlite.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\spinner_ab_pressed_rankitlite.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_tab_contacts.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\ic_tab_contacts.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\product.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\product.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\list_focused_rankitlite.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\list_focused_rankitlite.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\md_nav_back.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\exploded-aar\\com.afollestad\\core\\unspecified\\res\\drawable-xhdpi-v4\\md_nav_back.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_social_group.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\ic_social_group.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ab_transparent_rankitlite.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\ab_transparent_rankitlite.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\tab_selected_pressed_rankitlite.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\tab_selected_pressed_rankitlite.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ranking.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\ranking.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_maps_directions_walk.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\ic_maps_directions_walk.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\community.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\community.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\back_up.PNG",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\back_up.PNG"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_content_add.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\ic_content_add.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_product.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\ic_product.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\dontlike.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\dontlike.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\new_topic.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\new_topic.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\tab_selected_rankitlite.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\tab_selected_rankitlite.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_tab_favourite.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\ic_tab_favourite.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_jaime.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\ic_jaime.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_navigation_more_horiz.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\ic_navigation_more_horiz.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_hardware_desktop_windows.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\ic_hardware_desktop_windows.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_headset.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\ic_headset.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_best.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\ic_best.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_action_trending_up.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\ic_action_trending_up.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ab_texture_tile_rankitlite.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\ab_texture_tile_rankitlite.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_content_send.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\ic_content_send.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_action_search.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\ic_action_search.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_launcher_blanc.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\ic_launcher_blanc.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.2.0\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_neutral.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\ic_neutral.png"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi-v4\\ic_account_circle.png",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\res\\drawable-xhdpi\\ic_account_circle.png"
+    }
+]

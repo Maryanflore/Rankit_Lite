@@ -1,0 +1,181 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_entreprise"
+     >
+
+    <RelativeLayout
+        android:id="@+id/relativeLayout1"
+        android:layout_width="wrap_content"
+        android:layout_height="400dp"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginBottom="5dp"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:alpha=".9"
+        android:background="#ffffff"
+        tools:ignore="UnusedAttribute,RtlHardcoded" >
+
+        <TextView
+            android:id="@+id/textView1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="47dp"
+            android:text="UNITED BANK FOR AFRICA"
+            android:textColor="#000000"
+            android:textSize="12sp"
+            android:textStyle="bold"
+            android:typeface="normal"
+            tools:ignore="HardcodedText" />
+
+        <ListView
+            android:id="@+id/listView"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:layout_below="@+id/imageView4" />
+
+        <ImageView
+            android:id="@+id/imageView4"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_alignTop="@+id/TextView01"
+            android:layout_marginBottom="2dp"
+            android:src="@drawable/ic_maps_directions_walk"
+            tools:ignore="ContentDescription" />
+
+        <TextView
+            android:id="@+id/TextView03"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignLeft="@+id/textView1"
+            android:layout_below="@+id/textView1"
+            android:layout_marginLeft="48dp"
+            android:text="2nd"
+            android:textColor="#2962ff"
+            android:textSize="12sp"
+            android:textStyle="bold"
+            android:typeface="normal"
+            tools:ignore="HardcodedText" />
+
+        <ImageView
+            android:id="@+id/imageView3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/imageView4"
+            android:layout_marginBottom="2dp"
+            android:layout_toRightOf="@+id/textView1"
+            android:src="@drawable/ic_action_thumb_down"
+            tools:ignore="ContentDescription" />
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignTop="@+id/imageView3"
+            android:layout_marginBottom="2dp"
+            android:layout_marginLeft="12dp"
+            android:layout_toRightOf="@+id/imageView3"
+            android:src="@drawable/ic_action_thumb_up"
+            tools:ignore="ContentDescription" />
+
+        <TextView
+            android:id="@+id/TextView01"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/TextView03"
+            android:layout_marginLeft="5dp"
+            android:layout_marginTop="29dp"
+            android:text="Criteria"
+            android:textColor="#000000"
+            android:textSize="14sp"
+            android:typeface="normal"
+            tools:ignore="HardcodedText" />
+
+        <TextView
+            android:id="@+id/TextView04"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/TextView01"
+            android:layout_toRightOf="@+id/TextView03"
+            android:text="Place"
+            android:layout_marginLeft="2dp"
+            android:textColor="#2962ff"
+            android:textSize="12sp"
+            android:typeface="normal"
+            tools:ignore="HardcodedText" />
+
+        <ImageView
+            android:id="@+id/imageView5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_toLeftOf="@+id/imageView4"
+            android:src="@drawable/ic_navigation_arrow_drop_up"
+            tools:ignore="ContentDescription" />
+
+        <ImageView
+            android:id="@+id/imageView6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:src="@drawable/ic_navigation_arrow_drop_down"
+            tools:ignore="ContentDescription" />
+
+        <TextView
+            android:id="@+id/TextView02"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/TextView03"
+            android:layout_centerHorizontal="true"
+            android:text="BANKING"
+            android:layout_marginTop="2dp"
+            android:textColor="#000000"
+            android:textSize="12sp"
+            android:typeface="normal"
+            tools:ignore="HardcodedText" />
+
+    </RelativeLayout>
+
+    <ImageView
+        android:id="@+id/imageback"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/relativeLayout1"
+        android:layout_alignParentTop="true"
+        android:layout_alignStart="@+id/relativeLayout1"
+        android:layout_marginTop="20dp"
+        android:src="@drawable/abc_ic_ab_back_mtrl_am_alpha"
+        tools:ignore="ContentDescription" />
+
+    <ImageView
+        android:id="@+id/imageView10"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/relativeLayout1"
+        android:layout_alignRight="@+id/relativeLayout1"
+        android:layout_alignTop="@+id/imageView9"
+        android:contentDescription="TODO"
+        android:src="@drawable/abc_ic_menu_moreoverflow_mtrl_alpha"
+        tools:ignore="HardcodedText,ContentDescription" />
+
+     <com.therankit.services.FeedImageView
+        android:id="@+id/imgLogo"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/imageView9"
+        android:layout_centerHorizontal="true"
+        android:adjustViewBounds="true"
+        android:scaleType="center"
+        android:src="@drawable/ic_logo3large"
+        tools:ignore="ContentDescription" />
+
+</RelativeLayout>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#aa99aa99" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:text="ALL PRODUCTS"
+        tools:ignore="HardcodedText" />
+
+    <Button
+        android:id="@+id/button1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:drawableEnd="@drawable/ic_action_thumb_up"
+        android:drawablePadding="5dp"
+        android:drawableRight="@drawable/ic_action_thumb_up"
+        android:paddingLeft="10dp"
+        android:paddingStart="10dp"
+        android:text="@string/like"
+        android:textColor="#26C4EC"
+        android:textSize="18sp"
+        android:textStyle="italic"
+        android:typeface="sans"
+        tools:ignore="RtlSymmetry" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:drawableLeft="@drawable/ic_action_thumb_down"
+        android:drawablePadding="5dp"
+        android:drawableStart="@drawable/ic_action_thumb_down"
+        android:paddingRight="10dp"
+        android:paddingEnd="10dp"
+        android:text="@string/likenot"
+        android:textColor="#26C4EC"
+        android:textSize="18sp"
+        android:textStyle="italic"
+        android:typeface="sans"
+        tools:ignore="RtlSymmetry,RtlHardcoded" />
+    
+    <ListView
+        android:id="@android:id/list"
+        android:paddingLeft="5dp"
+        android:paddingStart="5dp"
+        android:paddingEnd="5dp"
+        android:paddingRight="5dp"
+        android:paddingTop="5dp"
+        android:paddingBottom="5dp"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_above="@+id/button1" />
+  
+</RelativeLayout>

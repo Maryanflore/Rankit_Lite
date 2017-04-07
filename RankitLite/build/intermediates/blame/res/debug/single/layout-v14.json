@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Users\\Probook\\Desktop\\Server\\app\\Rankit\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\debug\\layout-v14\\md_stub_progress_indeterminate_horizontal.xml",
+        "source": "C:\\Users\\Probook\\Desktop\\Server\\app\\Rankit\\Rankit\\RankitLite\\build\\intermediates\\exploded-aar\\com.afollestad\\core\\unspecified\\res\\layout-v14\\md_stub_progress_indeterminate_horizontal.xml"
+    },
+    {
+        "merged": "C:\\Users\\Probook\\Desktop\\Server\\app\\Rankit\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\debug\\layout-v14\\md_stub_progress_indeterminate.xml",
+        "source": "C:\\Users\\Probook\\Desktop\\Server\\app\\Rankit\\Rankit\\RankitLite\\build\\intermediates\\exploded-aar\\com.afollestad\\core\\unspecified\\res\\layout-v14\\md_stub_progress_indeterminate.xml"
+    },
+    {
+        "merged": "C:\\Users\\Probook\\Desktop\\Server\\app\\Rankit\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\debug\\layout-v14\\md_stub_progress.xml",
+        "source": "C:\\Users\\Probook\\Desktop\\Server\\app\\Rankit\\Rankit\\RankitLite\\build\\intermediates\\exploded-aar\\com.afollestad\\core\\unspecified\\res\\layout-v14\\md_stub_progress.xml"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\debug\\layout-v14\\md_stub_progress_indeterminate_horizontal.xml",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\exploded-aar\\com.afollestad\\core\\unspecified\\res\\layout-v14\\md_stub_progress_indeterminate_horizontal.xml"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\debug\\layout-v14\\md_stub_progress_indeterminate.xml",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\exploded-aar\\com.afollestad\\core\\unspecified\\res\\layout-v14\\md_stub_progress_indeterminate.xml"
+    },
+    {
+        "merged": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\res\\merged\\debug\\layout-v14\\md_stub_progress.xml",
+        "source": "D:\\rankit_backud\\Rankit\\RankitLite\\build\\intermediates\\exploded-aar\\com.afollestad\\core\\unspecified\\res\\layout-v14\\md_stub_progress.xml"
+    }
+]

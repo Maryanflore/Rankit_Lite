@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/feed_bg"
+    android:orientation="vertical" >
+
+
+<FrameLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="@dimen/feed_item_margin"
+        android:layout_marginRight="@dimen/feed_item_margin"
+        android:layout_marginTop="@dimen/feed_item_margin"
+        android:background="@drawable/bg_parent_rounded_corner"
+        android:orientation="vertical" 
+        android:paddingTop="@dimen/feed_item_padding_top_bottom"
+>
+    <LinearLayout
+        android:layout_width="fill_parent"
+    	android:layout_height="fill_parent" 
+        android:orientation="vertical"
+ 			>
+ 
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:layout_marginTop="5dp"
+            android:paddingLeft="@dimen/feed_item_padding_left_right"
+            android:paddingRight="@dimen/feed_item_padding_left_right" >
+
+       <!--      <com.android.volley.toolbox.NetworkImageView
+                android:id="@+id/profilePic"
+                android:layout_width="@dimen/feed_item_profile_pic"
+                android:layout_height="@dimen/feed_item_profile_pic"
+                android:scaleType="fitCenter"
+        android:src="@drawable/homme" >
+            </com.android.volley.toolbox.NetworkImageView> -->
+<roundedImage.RoundedImageView
+        android:id="@+id/profilePic"
+       android:layout_width="@dimen/feed_item_profile_pic"
+                android:layout_height="@dimen/feed_item_profile_pic"
+       android:scaleType="fitCenter"
+          android:src="@drawable/homme" />
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:paddingLeft="@dimen/feed_item_profile_info_padd" >
+
+                <TextView
+                    android:id="@+id/name"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:textSize="12sp"
+                    android:textStyle="bold"
+                    android:textColor="#000" />
+
+                <TextView
+                    android:id="@+id/timestamp"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:textColor="@color/timestamp"
+                    android:textSize="@dimen/feed_item_timestamp" />
+            </LinearLayout>
+            
+           <LinearLayout
+                android:layout_width="fill_parent"
+                android:layout_height="wrap_content"
+                  android:gravity="right"
+                android:orientation="horizontal"
+               android:paddingLeft="@dimen/feed_item_padding_left_right" >
+              <ImageView
+            android:id="@+id/barr_vote"
+            android:layout_width="30dp"
+            android:layout_height="30dp"
+           
+        android:layout_alignParentTop="true"
+            android:src="@drawable/ic_navigation_more_horiz"
+            /> 
+              	 
+            </LinearLayout> 
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/description"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:paddingBottom="2dp"
+            android:textColor="#000" 
+            android:textSize="12sp"
+            android:paddingLeft="@dimen/feed_item_status_pad_left_right"
+            android:paddingRight="@dimen/feed_item_status_pad_left_right"
+            android:paddingTop="@dimen/feed_item_status_pad_top" />
+   		
+        <TextView
+            android:id="@+id/taille"
+            android:layout_width="fill_parent"
+            android:layout_height="30dp"></TextView> 
+   		  
+        <TextView
+            android:id="@+id/txtUrl"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:linksClickable="true" 
+            android:textSize="12sp"
+            android:paddingLeft="@dimen/feed_item_status_pad_left_right"
+            android:paddingRight="@dimen/feed_item_status_pad_left_right"
+            android:textColorLink="@color/link" />
+
+        <com.therankit.services.FeedImageView
+            android:id="@+id/feedImage1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@color/white"
+            android:scaleType="fitXY"
+            android:visibility="visible"  
+        	android:padding="5dp"/>
+        <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="40dp"
+        android:orientation="horizontal" 
+        android:layout_gravity="center"
+        android:background="#55000000"
+			android:id="@+id/dessus"
+        android:paddingTop="5dp"  >
+
+			<LinearLayout
+				android:layout_width="wrap_content"
+				android:layout_height="30dp"
+				android:orientation="horizontal"
+				android:layout_gravity="left"
+
+
+				android:paddingTop="5dp"  >
+        
+   		    	
+            <ImageView
+            android:id="@+id/iconComment"
+            android:layout_width="20dp"
+            android:layout_height="20dp" 
+            android:src="@drawable/ic_commentaire"
+            android:layout_marginLeft="10dp" />     	     	 
+   	              	 <TextView
+	         android:layout_width="wrap_content"
+	         android:layout_height="wrap_content"
+	         android:textSize="14sp"
+       		 android:textColor="#fff" 
+        	 android:id="@+id/nbre_comment"
+        	 android:text="0" 
+             android:textAppearance="?android:attr/textAppearanceMedium"
+            />  
+   	    	   
+   
+            <ImageView
+            android:id="@+id/iconJaime"
+            android:layout_width="20dp"
+            android:layout_height="20dp" 
+            android:src="@drawable/ic_jaime"
+            android:layout_marginLeft="30dp" />
+    	              	 <TextView
+	         android:layout_width="wrap_content"
+	         android:layout_height="wrap_content"
+	         android:textSize="14sp"
+       		 android:textColor="#fff" 
+        	 android:id="@+id/nbre_jaime"
+        	 android:text="1" 
+            android:layout_marginLeft="5dp"
+             android:textAppearance="?android:attr/textAppearanceMedium"
+            />  
+            
+    	              	 <ImageView
+            android:id="@+id/iconJaime_pas"
+            android:layout_width="20dp"
+            android:layout_height="20dp" 
+            android:src="@drawable/ic_jaime_pas"
+            android:layout_marginLeft="30dp" />
+    	              	 <TextView
+	         android:layout_width="wrap_content"
+	         android:layout_height="wrap_content"
+	         android:textSize="14sp"
+       		 android:textColor="#fff" 
+        	 android:id="@+id/nbre_jaim_pas"
+        	 android:text="3" 
+            android:layout_marginLeft="5dp"
+             android:textAppearance="?android:attr/textAppearanceMedium"
+            />
+
+
+
+
+		</LinearLayout>
+
+
+				<LinearLayout
+					android:layout_width="fill_parent"
+					android:layout_height="wrap_content"
+					android:orientation="horizontal"
+					android:layout_marginRight="5dp"
+					android:gravity="right"
+					android:paddingTop="0dp"  >
+				<ImageView
+					android:id="@+id/market_search"
+					android:layout_width="35dp"
+					android:layout_height="35dp"
+					android:src="@drawable/market"
+					android:layout_marginLeft="30dp"
+					android:layout_gravity="right"
+					android:layout_marginTop="-1dp"
+
+					/>
+				<TextView
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:textSize="14sp"
+					android:textColor="#fff"
+					android:id="@+id/nbre_market_search"
+					android:text="3"
+					android:layout_marginLeft="1dp"
+					android:layout_marginTop="8dp"
+					android:textAppearance="?android:attr/textAppearanceMedium"
+					/>
+				</LinearLayout>
+
+
+    </LinearLayout>
+ </LinearLayout>
+   
+</FrameLayout>
+</LinearLayout>
