@@ -59,6 +59,8 @@ import java.util.Map;
 
 import chechPakage.ItemAdapter;
 
+import com.therankit.services.IconTextTabsActivity;
+
 
 @SuppressLint("NewApi")
 public class Welcome extends ActionBarActivity implements AdapterView.OnItemSelectedListener {
@@ -251,7 +253,7 @@ public class Welcome extends ActionBarActivity implements AdapterView.OnItemSele
 											.commit();
 
 
-									Intent intent = new Intent(Welcome.this, HomeGrid.class);
+									Intent intent = new Intent(Welcome.this, IconTextTabsActivity.class);
 									intent.putExtra("randkiteUser_id",jsonObjSend.getInt("randkiteUser_id"));
 									intent.putExtra("randkiteUser_name",jsonObjSend.getString("randkiteUser_name"));
 									intent.putExtra("randkiteUser_surname",jsonObjSend.getString("randkiteUser_surname"));
